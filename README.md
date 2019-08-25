@@ -16,6 +16,6 @@ Assets include:
 
 - A modified version of [Civilian Occupation System(COS)](https://forums.bohemia.net/forums/topic/165747-civilian-occupation-system-cos/) -- Used with special permission from the original creators. Do *not* duplicate anything marked "cos," "civilian occupation," "C.O.S.," or similar. These assets are uniquely licensed for PSO.
 
-- A modified version of the [Military Gear Pack](https://forums.bohemia.net/forums/topic/190091-tier-1-gear-pack/) by Adacas -- Assets modified with respect to the original author. The original author does not seem to be responsive. If the author would like these assets to be removed, we will do so immediately. Do *not* duplicate anything marked "mgp," "Military Gear Pack," "Tier 1," or similar.
+- A modified version of the [Military Gear Pack](https://forums.bohemia.net/forums/topic/190091-tier-1-gear-pack/) by Adacas -- Assets modified with respect to the original author. The original author does not seem to be responsive to any requests for duplication, so we borrow these assets tenuously. If the author would like these assets to be removed, we will do so immediately. Do *not* duplicate anything marked "mgp," "Military Gear Pack," "Tier 1," or similar.
 
 - Many PSO-specific tweaks.
