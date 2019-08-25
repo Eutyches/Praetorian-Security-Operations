@@ -1,5 +1,5 @@
 # Praetorian-Security-Operations
-Official mod for Praetorian Security Operations (PSO), an Arma 3 milsim team.
+Official mod for Praetorian Security Operations (PSO), an Arma 3 milsim team. Unit-specific assets.
 
 - [Arma 3 Unit Page](https://units.arma3.com/unit/psopmc)
 - [Discord](https://discordapp.com/invite/Brg4zTN)
