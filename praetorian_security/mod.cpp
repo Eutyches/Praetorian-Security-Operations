@@ -1,0 +1,13 @@
+name = "Praetorian Security Operations (Unit-Specific Assets)";
+picture = "pso_icon.paa";
+actionName = "Praetorian Security Operations";
+action = "https://github.com/Eutyches/Praetorian-Security-Operations";
+logo = "pso_icon.paa";
+logoOver = "pso_icon.paa";
+tooltip = "Praetorian Security Operations";
+tooltipOwned = "Praetorian Security Operations";
+overview = "Visit https://github.com/Eutyches/Praetorian-Security-Operations";
+author = "Eutyches (Corey), Dunbar Snackbar, et alii";
+overviewPicture = "pso_icon.paa";
+overviewText = "Visit: https://github.com/Eutyches/Praetorian-Security-Operations";
+overviewFootnote = "Praetorian-Security-Operations GitHub Repository)";

@@ -1,0 +1,354 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="MRHMiscItems">
+	<Package name="MRHMiscItems">
+		<Container name="MRH_MRHMiscItems_AllSTrings">
+			<Key ID="STR_MRH_MRHMiscItems_ItemEdCat">
+				<Original>MRH Items</Original>
+				<English>MRH Items</English>
+				<French>MRH Objets</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_propsEdSubCat">
+				<Original>Props</Original>
+				<English>Props</English>
+				<French>Accessoires</French>
+			</Key><Key ID="STR_MRH_MRHMiscItems_ElButtonDis">
+				<Original>Elevator control panel</Original>
+				<English>Elevator control panel</English>
+				<French>Panneau de contrôle d'ascenseur</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_USBDriveDisp">
+				<Original>USB flash drive</Original>
+				<English>USB flash drive</English>
+				<French>Clef USB</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_InvItEdSubCat">
+				<Original>Inventory Items</Original>
+				<English>Inventory Items</English>
+				<French>Objets d'inventaire</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_RFIDDescShort">
+				<Original>A RFID keycard</Original>
+				<English>A RFID keycard</English>
+				<French>Un pass RFID</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_RF_BLU">
+				<Original>RFID keycard (For BLUFOR)</Original>
+				<English>RFID keycard (For BLUFOR)</English>
+				<French>Pass RFID (pour BLUFOR)</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_RF_OP">
+				<Original>RFID keycard (For OPFOR)</Original>
+				<English>RFID keycard (For OPFOR)</English>
+				<French>Pass RFID (pour OPFOR)</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_RF_IND">
+				<Original>RFID keycard (for INDEP.)</Original>
+				<English>RFID keycard (for INDEP.)</English>
+				<French>Pass RFID (pour INDEP.)</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_bioscanDisp">
+				<Original>Biometric scanner</Original>
+				<English>Biometric scanner</English>
+				<French>Scanner biométrique</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_touchScreenAction">
+				<Original>Touch screen</Original>
+				<English>Touch screen</English>
+				<French>Toucher l'écran</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scanEyesAction">
+				<Original>Scan eyes</Original>
+				<English>Scan eyes</English>
+				<French>Scanner les yeux</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scanHandAction">
+				<Original>Scan hand</Original>
+				<English>Scan hand</English>
+				<French>Scanner la main</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_requiresEyesMess">
+				<Original>Requires scanning eyes.</Original>
+				<English>Requires scanning eyes.</English>
+				<French>Requiert de scanner les yeux.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_requiresHandMess">
+				<Original>Requires scanning hand.</Original>
+				<English>Requires scanning hand.</English>
+				<French>Requiert de scanner la main</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_cfgMainSCreen">
+				<Original>Main screen</Original>
+				<English>Main screen</English>
+				<French>Ecran principal</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_cfgHandScan">
+				<Original>Hand Scanner</Original>
+				<English>Hand Scanner</English>
+				<French>Scanner digital</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_cfgEyeScan">
+				<Original>Eye scanner</Original>
+				<English>Eye scanner</English>
+				<French>Scanner oculaire</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerUseAceACAttr">
+				<Original>Use ace actions</Original>
+				<English>Use ace actions</English>
+				<French>Utiliser les actions ACE</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerUseAceACAttrToolTip">
+				<Original>If you enable this setting the scanner will display 3 ace actions.(effects of each action can be coded below).</Original>
+				<English>If you enable this setting the scanner will display 3 ace actions.(effects of each action can be coded below).</English>
+				<French>Si vous activez ce réglage le scanner offrira 3 actions ace. Les effets de ces actions peuvent être codés dans les champs ci-dessous.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCodeMainAttr">
+				<Original>Code to run when the main touchscreen is used.</Original>
+				<English>Code to run when the main touchscreen is used.</English>
+				<French>Code a executer lorsque l'écran tactile est utilisé.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCodeMainAttrToolTip">
+				<Original>The following code will run when the main screen action is used, after the videos are played on the screen. Variables _scanner and _player are passed to the code.</Original>
+				<English>The following code will run when the main screen action is used, after the videos are played on the screen. Variables _scanner and _player are passed to the code.</English>
+				<French>Le code suivant sera executé quand l'écran  tactile est utilisé, après que les vidéos soient jouées sur l'écran. Les variables _scanner et _player sont disponibles dans le code.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCodeHandAttr">
+				<Original>Code to run when the hand scanner is used.</Original>
+				<English>Code to run when the hand scanner is used.</English>
+				<French>Code à executer quand le scanner digital est utiliser.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCodeHandAttrToolTip">
+				<Original>The following code will run when the hand scanner action is used, after the videos are played on the screen. Variables _scanner and _player are passed to the code.</Original>
+				<English>The following code will run when the hand scanner action is used, after the videos are played on the screen. Variables _scanner and _player are passed to the code.</English>
+				<French>Le code suivant sera executé quand le scanner digital est utilisé, après que les vidéos soient jouées sur l'écran. Les variables _scanner et _player sont disponibles dans le code.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCodeEye">
+				<Original>Code to run when the eye scanner is used.</Original>
+				<English>Code to run when the eye scanner is used.</English>
+				<French>Code a executer quand le scanner oculaire est utilisé.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCodeEyeToolTip">
+				<Original>The following code will run when the eye scanner action is used, after the videos are played on the screen. Variables _scanner and _player are passed to the code.</Original>
+				<English>The following code will run when the eye scanner action is used, after the videos are played on the screen. Variables _scanner and _player are passed to the code.</English>
+				<French>Le code suivant sera executé quand le scanner oculaire est utilisé, après que les vidéos soient jouées sur l'écran. Les variables _scanner et _player sont disponibles dans le code.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCtrlNearDoorAttr">
+				<Original>Control nearest door</Original>
+				<English>Control nearest door</English>
+				<French>Contrôler la porte la plus proche</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCtrlNearDoorAttrToolTip">
+				<Original>If this setting is enabled the scanner will control closing, opening and locking of the nearest door (from the main screen action only), from the nearest building,requires 'use ace action setting' to be enabled. Door will be locked at mission start. Might not work with non vanilla buildings.</Original>
+				<English>If this setting is enabled the scanner will control closing, opening and locking of the nearest door (from the main screen action only), from the nearest building,requires 'use ace action setting' to be enabled. Door will be locked at mission start. Might not work with non vanilla buildings. </English>
+				<French>Si ce réglage est activé le scanner controlera l'ouverture, la fermeture et le verouillage de la porte la plus proche, dans le bâtiment le plus proche (via l'action de l'écran tactile seulement), requiert le réglage 'utiliser les actions ace' activé. La porte sera vérouillée au début de la mission. Peut ne pas marcher avec des bâtiments issus de mods.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCondLockAttr">
+				<Original>Condition to open lock the door</Original>
+				<English>Condition to open lock the door</English>
+				<French>Condition pour dévérouiller la porte</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCondLockAttrToolTip">
+				<Original>Code, scripting the required conditions to unlock the door, can be anything, must return BOOL</Original>
+				<English>Code, scripting the required conditions to unlock the door, can be anything, must return BOOL</English>
+				<French>Code, qui scripte les conditions requises pour ouvrir la porte, peut être n'importe quoi mais doit retourner une valeur BOOLEENNE </French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerForceScanEyesAttr">
+				<Original>Force using eye scanner before unlocking</Original>
+				<English>Force using eye scanner before unlocking</English>
+				<French>Forcer l'utilisation du scanner oculaire avant de dévérouiller.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerForceScanEyesAttrToolTip">
+				<Original>If this setting is enabled players will have to first use the eye scanner (in a short period of time) before being able to unlock the door by the main screen.</Original>
+				<English>If this setting is enabled players will have to first use the eye scanner (in a short period of time) before being able to unlock the door by the main screen.</English>
+				<French>Si ce réglage est activé les joueurs devront utiliser le scanner oculaire avant de pouvoir dévérouiller la porte avec l'écran principal (durée limitée).</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerForceHandScanAttr">
+				<Original>Force using hand scanner before unlocking</Original>
+				<English>Force using hand scanner before unlocking</English>
+				<French>Forcer l'utilisation du scanner digital avant de dévérouiller.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerForceHandScanAttrToolTip">
+				<Original>If this setting is enabled players will have to first use the hand scanner (in a short period of time) before being able to unlock the door by the main screen.</Original>
+				<English>If this setting is enabled players will have to first use the hand scanner (in a short period of time) before being able to unlock the door by the main screen.</English>
+				<French>Si ce réglage est activé les joueurs devront utiliser le scanner digital avant de pouvoir dévérouiller la porte avec l'écran principal (durée limitée).</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerAllowHackingAttr">
+				<Original>Allow hacking this terminal</Original>
+				<English>Allow hacking this terminal</English>
+				<French>Autoriser le piratage de ce terminal</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerAllowHackingAttrToolTip">
+				<Original>If this setting is enabled a player will be able to hack the scanner(with the hacking tool),thus bypassing all above conditions. (only for the player that performed the hack)</Original>
+				<English>If this setting is enabled a player will be able to hack the scanner(with the hacking tool),thus bypassing all above conditions. (only for the player that performed the hack)</English>
+				<French>Si ce réglage est activé un joueur sera en mesure de pirater le scanner (avec l'outil de piratage), ce qui lui permettra de bypasser les conditions ci-dessus. (valable seulement pour le joueur qui a fait le piratage).</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCtrledItemAttr">
+				<Original>Building variable name</Original>
+				<English>Building variable name</English>
+				<French>Nom de variable du bâtiment</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_scannerCtrledItemAttrToolTip">
+				<Original>Variable name of the building to control. If a variable name is set for the building the scanner will control the nearest door in given building, otherwise it will control the nerates door in the nearest building.</Original>
+				<English>Variable name of the building to control. If a variable name is set for the building the scanner will control the nearest door in given building, otherwise it will control the nerates door in the nearest building.</English>
+				<French>Nom de varaiable du bâtiment à contrôler. Si un nom de variable de bâtiment est donné le scanner contrôlera la porte de ce bâtiment la plus proche de sa position, sinon il contrôlera la porte la plus proche du bâtiment le plus proche.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_pickUpMat">
+				<Original>Collect mat</Original>
+				<English>Collect mat</English>
+				<French>Ramasser le tapis</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_SMkhakiDisplay">
+				<Original>Shooting Mat (Khaki)</Original>
+				<English>Shooting Mat (Khaki)</English>
+				<French>Tapis de tir (Khaki)</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_SMoliveDisplay">
+				<Original>Shooting Mat (Olive)</Original>
+				<English>Shooting Mat (Olive)</English>
+				<French>Tapis de tir (Vert Olive)</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_SMDesShort">
+				<Original>A shooting mat, flattens the grass around when deployed</Original>
+				<English>A shooting mat, flattens the grass around when deployed</English>
+				<French>Un tapis de tir, applatit l'herbes autour quand il est déployé</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_UnfoldSM">
+				<Original>Unfold Shooting Mat</Original>
+				<English>Unfold Shooting Mat</English>
+				<French>Déployer le tapi de tir</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_EmptyAmmoCrate">
+				<Original>Empty ammunition box</Original>
+				<English>Empty ammunition box</English>
+				<French>Boîte de munitions vide</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_EmptySupplyBox">
+				<Original>Empty supply box</Original>
+				<English>Empty supply box</English>
+				<French>Caisse vide</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_AcexFoodCrate">
+				<Original>Field rations crate</Original>
+				<English>Field rations crate</English>
+				<French>Caisse de provisions</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_EdSubCatUtilities">
+				<Original>Utilities</Original>
+				<English>Utilities</English>
+				<French>Utilitaires</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_AmmoCrateAttributesCat">
+				<Original>MRH Ammocrate</Original>
+				<English>MRH Ammocrate</English>
+				<French>MRH Caisse de munition</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_IsRefillAmmoSet">
+				<Original>Is ammo crate</Original>
+				<English>Is is ammo crate</English>
+				<French>Est une caisse de munition automatique</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_NumberOfMagsSet">
+				<Original>Number of magazines per mag type</Original>
+				<English>Number of magazines per mag type</English>
+				<French>Nombre de chargeurs par type</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_InfiniteRefillSet">
+				<Original>Infinite refill</Original>
+				<English>Infinite refill</English>
+				<French>Contenu infini</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_CttRefreshSet">
+				<Original>Contents can be refreshed</Original>
+				<English>Contents can be refreshed</English>
+				<French>Le contenu peut-être rafraîchi</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_AmmocrateDescAndTooltip">
+				<Original>These settings allow you to make an ammocrate automatically filled with ammos fitting for the weapons equipped by players. If infinite refill is enabled the crate will be refilled everytime a player uses it. If content can be refreshed the box receives an ACE3 action and players can refresh its content when they equip a new weapon, it overrides the refill setting and enables it.</Original>
+				<English>These settings allow you to make an ammocrate automatically filled with ammos fitting for the weapons equipped by players. If infinite refill is enabled the crate will be refilled everytime a player uses it. If content can be refreshed the box receives an ACE3 action and players can refresh its content when they equip a new weapon, it overrides the refill setting and enables it.</English>
+				<French>Ces réglages vous permettent de remplir le conteneur de munitions adaptées aux armes des joueurs de manière automatique. Si le réglage contenu infini est activé la caisse sera reremplie à chaque fois qu'un joueur y accède. Si le contenu peut être rafraîchi, l'objet reçoit une interaction ACE3 qui permet au joueurs de rafrâichir son contenu quand ils changent d'arme, ce réglage rend automatiquement le contenu infini.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_RefillBoxAttributesCat">
+				<Original>MRH Infinite Box</Original>
+				<English>MRH Infinite Box</English>
+				<French>MRH Boîte infinie</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_isInfiniteBoxSet">
+				<Original>Is infinite box</Original>
+				<English>Is infinite box</English>
+				<French>Est une boîte infinie</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_isInfiniteBoxToolTip">
+				<Original>If enabled the box's original content will be refilled every time a player opens the box</Original>
+				<English>If enabled the box's original content will be refilled every time a player opens the box</English>
+				<French>Si ce réglage est activé le contenu originel de la boîte sera restauré à chaque fois qu'un joueur l'ouvre</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_FieldMedicTentVehicleDisp">
+				<Original>Field Medical Tent</Original>
+				<English>Field Medical Tent</English>
+				<French>Tente médicale de terrain</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_AceInteractionsMain">
+				<Original>Interactions</Original>
+				<English>Interactions</English>
+				<French>Interactions</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_HintTentCollected">
+				<Original>Tent collected</Original>
+				<English>Tent collected</English>
+				<French>Tente ramassée</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_HintRepackingTentCancelled">
+				<Original>Repacking tent cancelled</Original>
+				<English>Repacking tent cancelled</English>
+				<French>Rangement de la tente annulé</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_MessRepackingAncCOllectTent">
+				<Original>Repacking and collecting medical tent</Original>
+				<English>Repacking and collecting medical tent</English>
+				<French>Rangement et récupération de la tente</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_AceActionRepackAndCollectTent">
+				<Original>Repack and collect tent</Original>
+				<English>Repack and collect tent</English>
+				<French>Démonter et récupérer la tente</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_AcePitchMedicalTent">
+				<Original>Pitch medical tent</Original>
+				<English>Pitch medical tent</English>
+				<French>Monter la tente médicale</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_HintPitchingTentCancelled">
+				<Original>Pitching tent cancelled</Original>
+				<English>Pitching tent cancelled</English>
+				<French>Assemblage de la tente annulé</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_ProgressPitchingMedTent">
+				<Original>Pitching medical tent</Original>
+				<English>Pitching medical tent</English>
+				<French>Assemblage de la tente</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_DescWPMedicalTent">
+				<Original>This medical tent can be deployed and serve as a field ACE3 medical facility.</Original>
+				<English>This medical tent can be deployed and serve as a field ACE3 medical facility.</English>
+				<French>Cette tente médicale peut être déployée et servir de zone médicale ACE3.</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_BigFobContainerDispName">
+				<Original>Large FOB container</Original>
+				<English>Large FOB container</English>
+				<French>Conteneur pour poste avancé</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_SmallCampContainerDispName">
+				<Original>Small camp container</Original>
+				<English>Small camp container</English>
+				<French>Conteneur pour camp avancé</French>
+			</Key>
+			<Key ID="STR_MRH_MRHMiscItems_">
+				<Original></Original>
+				<English></English>
+				<French></French>
+			</Key>
+		
+			
+		</Container>
+	</Package>
+</Project>
