@@ -1,8 +1,8 @@
 # Praetorian-Security-Operations
 Official mod for Praetorian Security Operations (PSO), an Arma 3 milsim team.
 
-- [Praetorian Security Operations Arma 3 Unit Page](https://units.arma3.com/unit/psopmc)
-- [War is Hell & Praetorian Security Operations Discord](https://discordapp.com/invite/Brg4zTN)
+- [Arma 3 Unit Page](https://units.arma3.com/unit/psopmc)
+- [Discord](https://discordapp.com/invite/Brg4zTN)
 - [War is Hell Youtube Channel](https://www.youtube.com/channel/UCU_UuUC1huYMbToetISN1kQ)
 
 This mod contains assets from a number of outside mods, some of which have been modified by the **Praetorian Security Operations (PSO)** team. The GNU Lesser General Public License v3.0 applies *only* to the changes made by PSO or the assets specifically created by PSO. The licenses of the outside original mods are to be preserved.
