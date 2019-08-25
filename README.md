@@ -7,7 +7,7 @@ Official mod for Praetorian Security Operations (PSO), an Arma 3 milsim team.
 
 - [War is Hell Youtube Channel](https://www.youtube.com/channel/UCU_UuUC1huYMbToetISN1kQ)
 
-This mod contains assets from a number of outside mods, some of which have been modified by the **Praetorian Security Operations (PSO)** team. The GNU Lesser General Public License v3.0 applies to the changes made by PSO or the assets specifically created by PSO. The licenses of the outside original mods are to be preserved.
+This mod contains assets from a number of outside mods, some of which have been modified by the **Praetorian Security Operations (PSO)** team. The GNU Lesser General Public License v3.0 applies *only* to the changes made by PSO or the assets specifically created by PSO. The licenses of the outside original mods are to be preserved.
 
 Assets include:
 - A modified version of [MRHMilsimTools](https://github.com/MisterHLunaticwraith/MRHMilsimTools) -- Fully open source, duplicable. See the [Wiki](https://mrhmilsimtools-arma3-mod.fandom.com/wiki/MRHMilsimTools_ARMA3_Mod_Wiki) for full licensing information.
