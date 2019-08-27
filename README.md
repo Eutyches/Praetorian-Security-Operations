@@ -1,4 +1,7 @@
 # Praetorian-Security-Operations
+
+![PSO Flag](https://raw.githubusercontent.com/Eutyches/Praetorian-Security-Operations/master/Images%20%26%20Patches/psoFlag_small.png)
+
 Official mod for Praetorian Security Operations (PSO), an Arma 3 milsim team. Unit-specific assets.
 
 - [Arma 3 Unit Page](https://units.arma3.com/unit/psopmc)
