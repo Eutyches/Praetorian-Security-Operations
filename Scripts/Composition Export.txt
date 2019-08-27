@@ -1,0 +1,1 @@
+[(screenToWorld [0.5,0.5]),(get3DENSelected "object")] call BIS_fnc_exportCfgGroups;
