@@ -1,0 +1,2 @@
+Added psoPatch variants as Insignia (6).
+Added PSO TFAR packs, replacing the old cos recon packs and changing their weight and load bearing for immersion.

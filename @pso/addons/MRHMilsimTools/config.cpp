@@ -229,6 +229,42 @@ class CfgUnitInsignia
 		displayName = "PSO War is Hell White on Black";
 		texture = "\MRHMilSimTools\paa\unitpatch_pso_war3.paa";
 	};
+	class PSO_TexturedPatch_OD
+	{
+		author = "Corey"
+		displayName = "PSO Textured Text OD"
+		texture = "\MRHMilSimTools\paa\psoPatch.paa";
+	};
+	class PSO_TexturedPatch_Coyote
+	{
+		author = "Corey"
+		displayName = "PSO Textured Text Coyote"
+		texture = "\MRHMilSimTools\paa\psoPatch_coyote.paa";
+	};
+	class PSO_TexturedPatch_Grey
+	{
+		author = "Corey"
+		displayName = "PSO Textured Text Grey"
+		texture = "\MRHMilSimTools\paa\psoPatch_greyscale.paa";
+	};
+	class PSO_TexturedHelmet_OD
+	{
+		author = "Corey"
+		displayName = "PSO Textured Helmet OD"
+		texture = "\MRHMilSimTools\paa\psoPatch1.paa";
+	};
+	class PSO_TexturedHelmet_Coyote
+	{
+		author = "Corey"
+		displayName = "PSO Textured Helmet Coyote"
+		texture = "\MRHMilSimTools\paa\psoPatch1_coyote.paa";
+	};
+	class PSO_TexturedHelmet_Grey
+	{
+		author = "Corey"
+		displayName = "PSO Textured Helmet Grey"
+		texture = "\MRHMilSimTools\paa\psoPatch1_greyscale.paa";
+	};
 };
 
 class Extended_Init_EventHandlers {
