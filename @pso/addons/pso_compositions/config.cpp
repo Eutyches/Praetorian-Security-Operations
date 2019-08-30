@@ -2,7 +2,7 @@ class CfgPatches
 {
 	class PSO_Compositions
 	{
-		units[] = {};
+		units[] = {"PSO_FOB_A"};
 		weapons[] = {};
 		requiredVersion = 0.1;
 		requiredAddons[] = {"A3_Modules_F", "A3_Modules_F_Curator"};
