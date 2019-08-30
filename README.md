@@ -26,3 +26,11 @@ Assets include:
 - Many PSO-specific textures and tweaks.
 
 If you are uncertain as to the licensing of a specific part of this mod, ask for clarification.
+
+Dependencies:
+
+- CBA_A3
+
+- ACE3
+
+- Military Gear Pack
