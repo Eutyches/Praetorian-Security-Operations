@@ -34,3 +34,5 @@ Dependencies:
 - ACE3
 
 - Military Gear Pack
+
+- Task Force Arrowhead Radio 1.0 (Beta)
