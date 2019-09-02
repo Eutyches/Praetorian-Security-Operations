@@ -1,0 +1,40 @@
+#include "cfgMRHpunishments.hpp"
+#include "cfgMRH_SoldierTabIntelPictures.hpp"
+#include "cfgMRH_SoldierTabData.hpp"
+//#include "cfgMRHRankPictures.hpp" //uncomment this line to see example rank icons cfg
+#include "exampleRadioChatterCfg.hpp"
+#include "cfgMRHTargets.hpp"
+class CfgDebriefing
+{
+	class End1
+	{
+		title = "Fin Forcée par l'admin";
+		subtitle = "";
+		description = "Un administrateur a mis fin à la partie";
+		// pictureBackground = "";
+		//picture = "media\img\tgv.paa";
+		// pictureColor[] = {0.0,0.3,0.6,1};
+	};
+
+	class End2
+	{
+		title = "Echec de la mission";
+		subtitle = "Vous avez perdu trop d'hommes.";
+		description = "Trop d'hommes sont morts dans la bataille, la  mission est un échec.";
+	//pictureBackground = "media\img\deathscreen.jpg";
+	//picture = "media\img\tgv.paa";
+	// pictureColor[] = {0.0,0.3,0.6,1};
+	};
+
+	class End3
+	{
+		title = "Victoire";
+		subtitle = "";
+		description = "Vous avez détruit avec succès les bateaux pirates et leur réserve d'armes!";
+		//pictureBackground = "media\img\victory.jpg";
+		//picture = "media\img\tgv.paa";
+		// pictureColor[] = {0.0,0.3,0.6,1};
+	};
+
+
+};

@@ -9,19 +9,19 @@ Parameters:
 1- <OBJECT> - Chair to sit the unit on (works properly with: "Land_CampingChair_V2_F","Land_ChairWood_F")
 2 - <CODE> -Optional, condition to let the unit stand, must be stated between {};
 Example(s):
-[cobaye, chair1, {(cobaye GetVariable "IsAllowedToStand") == 1}] call MRH_fnc_sitOnChair;
+[cobaye, chair1, {(cobaye GetVariable ["IsAllowedToStand",false])}] call MRH_fnc_sitOnChair;
 */
 
-params ["_unit","_chair","_condition"];
+params ["_unit","_chair",["_condition",{false}]];
 
-[[_unit,"SIT1", "ASIS", _chair], BIS_fnc_ambientAnim] remoteExec ["call"];
+[[_unit,"SIT1", "ASIS", _chair], BIS_fnc_ambientAnim] remoteExec ["call",0];
 
-if (!isNil "_condition") then { 
+if !(_condition isEqualTo {false}) then { 
  0 = [_unit, _condition] spawn {
  
  params ["_unit", "_condition"];
 
  _cond = _condition;
  waitUntil {(_unit call _cond)};
-[[_unit], BIS_fnc_ambientAnim__terminate] remoteExec ["call"];};
+[[_unit], BIS_fnc_ambientAnim__terminate] remoteExec ["call",0];};
 };
