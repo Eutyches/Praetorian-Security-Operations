@@ -8,12 +8,8 @@ class CfgPatches {
 		versionStr = "1.17.3";
 		versionAr[] = {1,17,3};
 		versionDesc = "PSO Milsim Tools";
-		author = "Corey";
-      authors[]= {Corey"};
-		url = "https://github.com/Eutyches/Praetorian-Security-Operations";
+		authors[] = {"Corey"};
 	};
-		
-		
 };
 
 class CfgVehicles  // Use class PSO_Flag as template to add additional flags (Corey)
