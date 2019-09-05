@@ -434,121 +434,22 @@ shadow = 1;
 scope = 2;
 };
 
-class PSO_Flag
+class MRH_IH_NO_GO
 {
-name = "PSO_Flag";
+name = "Unavailable";
 markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_psoflag.paa";
-color[] = {1, 1, 1, 1};
-size = 64;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Insignia
-{
-name = "PSO_Insignia";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_psoinsignia.paa";
-color[] = {1, 1, 1, 1};
-size = 64;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Snack
-{
-name = "PSO_Snack";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_snackface.paa";
-color[] = {1, 1, 1, 1};
-size = 64;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Archer
-{
-name = "PSO_Archer";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_archer.paa";
-color[] = {1, 1, 1, 1};
+icon = "\MRHMarkers\paa\pasok.paa";
+color[] = {1, 0, 0, 1};
 size = 32;
 shadow = 1;
-scope = 2;
+scope = 0;
 };
 
-class PSO_Bandit
+class MRH_Submarine
 {
-name = "PSO_Bandit";
+name = $STR_MRH_MK_Submarine;
 markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_bandit.paa";
-color[] = {1, 1, 1, 1};
-size = 32;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Condor
-{
-name = "PSO_Condor";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_condor.paa";
-color[] = {1, 1, 1, 1};
-size = 32;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Dagger
-{
-name = "PSO_Dagger";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_dagger.paa";
-color[] = {1, 1, 1, 1};
-size = 32;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Excalibur
-{
-name = "PSO_Excalibur";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_excalibur.paa";
-color[] = {1, 1, 1, 1};
-size = 32;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Flintlock
-{
-name = "PSO_Flintlock";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_flintlock.paa";
-color[] = {1, 1, 1, 1};
-size = 32;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_OverLord
-{
-name = "PSO_OverLord";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_overlord.paa";
-color[] = {1, 1, 1, 1};
-size = 32;
-shadow = 1;
-scope = 2;
-};
-
-class PSO_Witchcraft
-{
-name = "PSO_Witchcraft";
-markerClass = "MRHMarkers";
-icon = "\MRHMarkers\paa\marker_witchcraft.paa";
+icon = "\MRHMarkers\paa\Submarine.paa";
 color[] = {1, 1, 1, 1};
 size = 32;
 shadow = 1;
