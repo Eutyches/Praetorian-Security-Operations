@@ -36,3 +36,7 @@ Dependencies:
 - Military Gear Pack
 
 - Task Force Arrowhead Radio 1.0 (Beta)
+
+- 3CB BAF Vehicles
+
+- RHSUSAF
