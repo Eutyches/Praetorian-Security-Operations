@@ -65,7 +65,7 @@ class CfgVehicles {
 	class Weapon_Bag_Base;	// External class reference
 	class Boat_F;	// External class reference
 	
-	class Rubber_duck_base_F : Boat_F {
+/*	class Rubber_duck_base_F : Boat_F {  //BLOCKED BY COREY (Missing rotate.sqf)
 		class EventHandlers;	// External class reference
 	};
 	
@@ -81,7 +81,7 @@ class CfgVehicles {
 			dissasembleto[] = {"drybag_zodiac_od", "drybag_zodiac_blk"};
 			primary = "true";
 		};
-	};
+	}; */
 	
 	class B_UAV_01_backpack_F : Weapon_Bag_Base {
 		class assembleinfo;	// External class reference
