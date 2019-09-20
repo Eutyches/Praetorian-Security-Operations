@@ -232,7 +232,7 @@ class CfgUnitInsignia
 	class PSO_Overlord
 	{
 		author = "Corey"
-		displayName = "PSO Fireteam Helmet"
+		displayName = "PSO Fireteam Overlord"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_overlord.paa";
 	};
 	class PSO_Praetorian
