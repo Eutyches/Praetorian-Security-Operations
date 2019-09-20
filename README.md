@@ -23,7 +23,7 @@ Assets include:
 
 - The most recent version of [ACEX](https://github.com/acemod/ACEX) with the "sitting" addon pulled from v.3.1.1, which is the last version to be fully compatible with Enhanced Movement. Part of the [ACE3 Mod project](https://github.com/acemod) -- Fully open source, duplicable. Licensed under the GNU General Public License v2.0. 
 
-- [Jonzie Carpack - Core](https://steamcommunity.com/workshop/filedetails/?id=729834202) & Jonzie's [Cadillac Escalade ESV](https://steamcommunity.com/sharedfiles/filedetails/?id=546604085) --- Fully open source, duplicable. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). (*Not* included here in the GitHub repository because the files are to large.)
+- [Jonzie Carpack - Core](https://steamcommunity.com/workshop/filedetails/?id=729834202) & Jonzie's [Cadillac Escalade ESV](https://steamcommunity.com/sharedfiles/filedetails/?id=546604085) --- Fully open source, duplicable. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). (*Not* included here in the GitHub repository because the files are too large.)
 
 - Many PSO-specific textures and tweaks.
 
