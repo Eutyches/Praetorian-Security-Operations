@@ -40,7 +40,7 @@ class cfgWeapons
 		scope=2;
 		scopeCurator=2;
 		scopeArsenal=2;
-		picture="\ALAT\data\ui\icon_CASQUE_RHFS.paa";
+		picture="\COS_casques\data\icon\OPS_CORE_ca.paa"; //REPLACED broken file path by Corey
 		hiddenSelections[]=
 		{
 			"camo"

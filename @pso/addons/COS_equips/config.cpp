@@ -859,7 +859,7 @@ class cfgGlasses {
 		picture = "\COS_equips\data\icon\patch_COS.ca.paa";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\COS_equips\data\BALA_SWAT\bala3\NEW_Balaclava_od_co.paa"};
-		hiddenSelectionsMaterials[] = {"COS_equips\data\BALA_SWAT\bala3\NEW_Balaclava.rvmat"};
+		//hiddenSelectionsMaterials[] = {"COS_equips\data\BALA_SWAT\bala3\NEW_Balaclava.rvmat"};
 		identityTypes[] = {"NoGlasses", 1000};
 		mass = 3;
 		DLC = "Expansion";
@@ -876,7 +876,7 @@ class cfgGlasses {
 		picture = "\COS_equips\data\icon\patch_COS.ca.paa";
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\COS_equips\data\BALA_SWAT\bala3\NEW_Balaclava_tan_co.paa"};
-		hiddenSelectionsMaterials[] = {"COS_equips\data\BALA_SWAT\bala3\NEW_Balaclava.rvmat"};
+		//hiddenSelectionsMaterials[] = {"COS_equips\data\BALA_SWAT\bala3\NEW_Balaclava.rvmat"};
 		identityTypes[] = {"NoGlasses", 1000};
 		mass = 3;
 		DLC = "Expansion";
