@@ -1,3 +1,13 @@
+/* Hat Template by Snackbar. Modified by Corey.
+DIRECTIONS
+Use "find" and "replace all" for the following:
+snackpack_h_cap_01_red_wales
+h_cap_red_co_wales.paa
+Wales
+Red
+*/
+
+
 class snackpack_h_cap_01_red_wales: ItemCore
 	{
 		author="Adacas (retexture by Snackbar)";
