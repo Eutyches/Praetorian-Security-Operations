@@ -1,19 +1,19 @@
-/* Hat Template by Snackbar. Modified by Corey.
+/* Hat Template by Corey. Modified by Corey.
 DIRECTIONS
 Use "find" and "replace all" for the following:
-snackpack_h_cap_01_red_wales
-h_cap_red_co_wales.paa
-Wales
-Red
+h_cap_od_co_pso_white.paa
+_od_pso_white
+PSO Olive Drab (White Logo)
+PSO Olive Drab + Goggles (White Logo)
 */
 
 
-class snackpack_h_cap_01_red_wales: ItemCore
+class snackpack_h_cap_01_od_pso_white: ItemCore
 	{
-		author="Adacas (retexture by Snackbar)";
+		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="Wales (Red)";
+		displayName="PSO Olive Drab (White Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -26,7 +26,7 @@ class snackpack_h_cap_01_red_wales: ItemCore
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\snackpack_headgear\textures\h_cap_red_co_wales.paa",
+			"\snackpack_headgear\textures\h_cap_od_co_pso_white.paa",
 			"\snackpack_headgear\textures\h_gear_01_CB_co.paa"
 		};
 		class ItemInfo: HeadgearItem
@@ -56,12 +56,12 @@ class snackpack_h_cap_01_red_wales: ItemCore
 			};
 		};
 	};
-	class snackpack_h_cap_01_goggles_red_wales: ItemCore
+	class snackpack_h_cap_01_goggles_od_pso_white: ItemCore
 	{
-		author="Adacas (retexture by Snackbar)";
+		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="Wales + Goggles (Red)";
+		displayName="PSO Olive Drab + Goggles (White Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -73,7 +73,7 @@ class snackpack_h_cap_01_red_wales: ItemCore
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\snackpack_headgear\textures\h_cap_red_co_wales.paa",
+			"\snackpack_headgear\textures\h_cap_od_co_pso_white.paa",
 			"\snackpack_headgear\textures\h_gear_01_CB_co.paa"
 		};
 		class ItemInfo: HeadgearItem
@@ -102,12 +102,12 @@ class snackpack_h_cap_01_red_wales: ItemCore
 			};
 		};
 	};
-	class snackpack_h_cap_02_red_wales: ItemCore
+	class snackpack_h_cap_02_od_pso_white: ItemCore
 	{
-		author="Adacas (retexture by Snackbar)";
+		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="Wales (Red)";
+		displayName="PSO Olive Drab (White Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -119,7 +119,7 @@ class snackpack_h_cap_01_red_wales: ItemCore
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\snackpack_headgear\textures\h_cap_red_co_wales.paa",
+			"\snackpack_headgear\textures\h_cap_od_co_pso_white.paa",
 			"\snackpack_headgear\textures\h_gear_01_CB_co.paa"
 		};
 		class ItemInfo: HeadgearItem
@@ -148,12 +148,12 @@ class snackpack_h_cap_01_red_wales: ItemCore
 			};
 		};
 	};
-	class snackpack_h_cap_02_goggles_red_wales: ItemCore
+	class snackpack_h_cap_02_goggles_od_pso_white: ItemCore
 	{
-		author="Adacas (retexture by Snackbar)";
+		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="Wales + Goggles (Red)";
+		displayName="PSO Olive Drab + Goggles (White Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -164,7 +164,7 @@ class snackpack_h_cap_01_red_wales: ItemCore
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\snackpack_headgear\textures\h_cap_red_co_wales.paa",
+			"\snackpack_headgear\textures\h_cap_od_co_pso_white.paa",
 			"\snackpack_headgear\textures\h_gear_01_CB_co.paa"
 		};
 		class ItemInfo: HeadgearItem
@@ -192,12 +192,12 @@ class snackpack_h_cap_01_red_wales: ItemCore
 			};
 		};
 	};
-	class snackpack_h_cap_03_red_wales: ItemCore
+	class snackpack_h_cap_03_od_pso_white: ItemCore
 	{
-		author="Adacas (retexture by Snackbar)";
+		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="Wales (Red)";
+		displayName="PSO Olive Drab (White Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -208,7 +208,7 @@ class snackpack_h_cap_01_red_wales: ItemCore
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\snackpack_headgear\textures\h_cap_red_co_wales.paa",
+			"\snackpack_headgear\textures\h_cap_od_co_pso_white.paa",
 			"\snackpack_headgear\textures\h_gear_01_CB_co.paa"
 		};
 		class ItemInfo: HeadgearItem
@@ -236,12 +236,12 @@ class snackpack_h_cap_01_red_wales: ItemCore
 			};
 		};
 	};
-	class snackpack_h_cap_03_goggles_red_wales: ItemCore
+	class snackpack_h_cap_03_goggles_od_pso_white: ItemCore
 	{
-		author="Adacas (retexture by Snackbar)";
+		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="Wales + Goggles (Red)";
+		displayName="PSO Olive Drab + Goggles (White Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -251,7 +251,7 @@ class snackpack_h_cap_01_red_wales: ItemCore
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\snackpack_headgear\textures\h_cap_red_co_wales.paa",
+			"\snackpack_headgear\textures\h_cap_od_co_pso_white.paa",
 			"\snackpack_headgear\textures\h_gear_01_CB_co.paa"
 		};
 		class ItemInfo: HeadgearItem
