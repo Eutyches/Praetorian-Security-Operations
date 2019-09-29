@@ -1,0 +1,2320 @@
+ (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\base_strap.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.125490,0.125490,0.125490};
+        AVGCTAGG=FF202020;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 000C56BE
+        MipBox2: 512x512@offset in pax file 0010AB9B
+        MipBox3: 256x256@offset in pax file 0011AEA0
+        MipBox4: 128x128@offset in pax file 0011F9C9
+        MipBox5: 64x64@offset in pax file 001219D0
+        MipBox6: 32x32@offset in pax file 001221D7
+        MipBox7: 16x16@offset in pax file 001223DE
+        MipBox8: 8x8@offset in pax file 00122465
+        MipBox9: 4x4@offset in pax file 0012248C
+        End of paxfile @ 001224A1
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\manta_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.980392,0.372549,0.356863,0.321569};
+        AVGCTAGG=FA5F5B52;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=8;
+        MipBox0: 512x512@offset in pax file 00000080
+        MipBox1: 256x256@offset in pax file 00023DDE
+        MipBox2: 128x128@offset in pax file 0002D118
+        MipBox3: 64x64@offset in pax file 0003111F
+        MipBox4: 32x32@offset in pax file 00032126
+        MipBox5: 16x16@offset in pax file 0003252D
+        MipBox6: 8x8@offset in pax file 00032634
+        MipBox7: 4x4@offset in pax file 0003267B
+        End of paxfile @ 00032698
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\v.lite_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.286275,0.203922,0.207843,0.200000};
+        AVGCTAGG=49343533;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=8;
+        MipBox0: 512x512@offset in pax file 00000080
+        MipBox1: 256x256@offset in pax file 0000E507
+        MipBox2: 128x128@offset in pax file 00012AD8
+        MipBox3: 64x64@offset in pax file 00016ADF
+        MipBox4: 32x32@offset in pax file 00017AE6
+        MipBox5: 16x16@offset in pax file 00017EED
+        MipBox6: 8x8@offset in pax file 00017FF4
+        MipBox7: 4x4@offset in pax file 0001803B
+        End of paxfile @ 00018058
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_helmet_fs_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.419608,0.396078,0.364706,0.270588};
+        AVGCTAGG=6B655D45;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004EC9
+        MipBox2: 64x64@offset in pax file 00008ED0
+        MipBox3: 32x32@offset in pax file 00009ED7
+        MipBox4: 16x16@offset in pax file 0000A2DE
+        MipBox5: 8x8@offset in pax file 0000A3E5
+        MipBox6: 4x4@offset in pax file 0000A42C
+        End of paxfile @ 0000A449
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_maritime_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.439216,0.207843,0.188235,0.164706};
+        AVGCTAGG=7035302A;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00005020
+        MipBox2: 64x64@offset in pax file 00009027
+        MipBox3: 32x32@offset in pax file 0000A02E
+        MipBox4: 16x16@offset in pax file 0000A435
+        MipBox5: 8x8@offset in pax file 0000A53C
+        MipBox6: 4x4@offset in pax file 0000A583
+        End of paxfile @ 0000A5A0
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\flag\flag_empty.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.200000,0.184314,0.149020};
+        AVGCTAGG=82332F26;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004826
+        MipBox2: 64x64@offset in pax file 0000882D
+        MipBox3: 32x32@offset in pax file 00009834
+        MipBox4: 16x16@offset in pax file 00009C3B
+        MipBox5: 8x8@offset in pax file 00009D42
+        MipBox6: 4x4@offset in pax file 00009D89
+        End of paxfile @ 00009DA6
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\patch_2.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.278431,0.258824,0.223529};
+        AVGCTAGG=FF474239;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00138B41
+        MipBox2: 512x512@offset in pax file 0018B4DB
+        MipBox3: 256x256@offset in pax file 001A04EC
+        MipBox4: 128x128@offset in pax file 001A59EA
+        MipBox5: 64x64@offset in pax file 001A79F1
+        MipBox6: 32x32@offset in pax file 001A81F8
+        MipBox7: 16x16@offset in pax file 001A83FF
+        MipBox8: 8x8@offset in pax file 001A8486
+        MipBox9: 4x4@offset in pax file 001A84AD
+        End of paxfile @ 001A84C2
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\team\st3.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {0.537255,0.247059,0.243137,0.247059};
+        AVGCTAGG=893F3E3F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=true;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00003C2E
+        MipBox2: 64x64@offset in pax file 00005C35
+        MipBox3: 32x32@offset in pax file 0000643C
+        MipBox4: 16x16@offset in pax file 00006643
+        MipBox5: 8x8@offset in pax file 000066CA
+        MipBox6: 4x4@offset in pax file 000066F1
+        End of paxfile @ 00006706
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\band_strap.nohq.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.239216,0.231373,0.505882};
+        AVGCTAGG=FF3D3B81;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00048702
+        MipBox2: 512x512@offset in pax file 000603AA
+        MipBox3: 256x256@offset in pax file 0006621D
+        MipBox4: 128x128@offset in pax file 00067993
+        MipBox5: 64x64@offset in pax file 0006999A
+        MipBox6: 32x32@offset in pax file 0006A1A1
+        MipBox7: 16x16@offset in pax file 0006A3A8
+        MipBox8: 8x8@offset in pax file 0006A42F
+        MipBox9: 4x4@offset in pax file 0006A456
+        End of paxfile @ 0006A46B
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\chemlight_red_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.431373,0.584314,0.400000,0.400000};
+        AVGCTAGG=6E956666;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00005C60
+        MipBox2: 64x64@offset in pax file 00009C67
+        MipBox3: 32x32@offset in pax file 0000AC6E
+        MipBox4: 16x16@offset in pax file 0000B075
+        MipBox5: 8x8@offset in pax file 0000B17C
+        MipBox6: 4x4@offset in pax file 0000B1C3
+        End of paxfile @ 0000B1E0
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\v.lite_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.498039,0.498039,1.000000};
+        AVGCTAGG=FF7F7FFF;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=8;
+        MipBox0: 512x512@offset in pax file 00000080
+        MipBox1: 256x256@offset in pax file 000160F9
+        MipBox2: 128x128@offset in pax file 0001C0D2
+        MipBox3: 64x64@offset in pax file 000200D9
+        MipBox4: 32x32@offset in pax file 000210E0
+        MipBox5: 16x16@offset in pax file 000214E7
+        MipBox6: 8x8@offset in pax file 000215EE
+        MipBox7: 4x4@offset in pax file 00021635
+        End of paxfile @ 00021652
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\caqsue\casque.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.184314,0.172549,0.145098};
+        AVGCTAGG=FF2F2C25;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 00061DE0
+        MipBox2: 256x256@offset in pax file 0007A12B
+        MipBox3: 128x128@offset in pax file 000802B1
+        MipBox4: 64x64@offset in pax file 000822B8
+        MipBox5: 32x32@offset in pax file 00082ABF
+        MipBox6: 16x16@offset in pax file 00082CC6
+        MipBox7: 8x8@offset in pax file 00082D4D
+        MipBox8: 4x4@offset in pax file 00082D74
+        End of paxfile @ 00082D89
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\fast_helmet\fast_helmet_snake.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.196078,0.192157,0.149020};
+        AVGCTAGG=FF323126;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 00344F7D
+        MipBox2: 1024x1024@offset in pax file 004256AF
+        MipBox3: 512x512@offset in pax file 0045DD60
+        MipBox4: 256x256@offset in pax file 0046CE20
+        MipBox5: 128x128@offset in pax file 004711D8
+        MipBox6: 64x64@offset in pax file 004731DF
+        MipBox7: 32x32@offset in pax file 004739E6
+        MipBox8: 16x16@offset in pax file 00473BED
+        MipBox9: 8x8@offset in pax file 00473C74
+        MipBox10: 4x4@offset in pax file 00473C9B
+        End of paxfile @ 00473CB0
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\patch.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.305882,0.282353,0.243137};
+        AVGCTAGG=FF4E483E;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 0016A724
+        MipBox2: 512x512@offset in pax file 001C966E
+        MipBox3: 256x256@offset in pax file 001E18FB
+        MipBox4: 128x128@offset in pax file 001E7BC6
+        MipBox5: 64x64@offset in pax file 001E9BCD
+        MipBox6: 32x32@offset in pax file 001EA3D4
+        MipBox7: 16x16@offset in pax file 001EA5DB
+        MipBox8: 8x8@offset in pax file 001EA662
+        MipBox9: 4x4@offset in pax file 001EA689
+        End of paxfile @ 001EA69E
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\ms200_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.474510,0.490196,0.937255};
+        AVGCTAGG=FF797DEF;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000080
+        MipBox1: 512x512@offset in pax file 00092468
+        MipBox2: 256x256@offset in pax file 000BAF0C
+        MipBox3: 128x128@offset in pax file 000C7952
+        MipBox4: 64x64@offset in pax file 000CB959
+        MipBox5: 32x32@offset in pax file 000CC960
+        MipBox6: 16x16@offset in pax file 000CCD67
+        MipBox7: 8x8@offset in pax file 000CCE6E
+        MipBox8: 4x4@offset in pax file 000CCEB5
+        End of paxfile @ 000CCED2
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\caqsue\casque_rhfs.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.188235,0.188235,0.156863};
+        AVGCTAGG=FF303028;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 00054BBF
+        MipBox2: 256x256@offset in pax file 0006BCB0
+        MipBox3: 128x128@offset in pax file 0007238C
+        MipBox4: 64x64@offset in pax file 00074393
+        MipBox5: 32x32@offset in pax file 00074B9A
+        MipBox6: 16x16@offset in pax file 00074DA1
+        MipBox7: 8x8@offset in pax file 00074E28
+        MipBox8: 4x4@offset in pax file 00074E4F
+        End of paxfile @ 00074E64
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_sangle_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.196078,0.192157,0.219608};
+        AVGCTAGG=FF323138;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 00010EDA
+        MipBox2: 256x256@offset in pax file 000163E2
+        MipBox3: 128x128@offset in pax file 00017C85
+        MipBox4: 64x64@offset in pax file 00019C8C
+        MipBox5: 32x32@offset in pax file 0001A493
+        MipBox6: 16x16@offset in pax file 0001A69A
+        MipBox7: 8x8@offset in pax file 0001A721
+        MipBox8: 4x4@offset in pax file 0001A748
+        End of paxfile @ 0001A75D
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_helmet_fs_ce_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.231373,0.219608,0.196078};
+        AVGCTAGG=FF3B3832;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000070
+        MipBox1: 128x128@offset in pax file 0000496F
+        MipBox2: 64x64@offset in pax file 00008976
+        MipBox3: 32x32@offset in pax file 0000997D
+        MipBox4: 16x16@offset in pax file 00009D84
+        MipBox5: 8x8@offset in pax file 00009E8B
+        MipBox6: 4x4@offset in pax file 00009ED2
+        End of paxfile @ 00009EEF
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_des.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.333333,0.321569,0.270588};
+        AVGCTAGG=FF555245;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00133A46
+        MipBox2: 512x512@offset in pax file 0017FD2F
+        MipBox3: 256x256@offset in pax file 00193F67
+        MipBox4: 128x128@offset in pax file 00199940
+        MipBox5: 64x64@offset in pax file 0019B947
+        MipBox6: 32x32@offset in pax file 0019C14E
+        MipBox7: 16x16@offset in pax file 0019C355
+        MipBox8: 8x8@offset in pax file 0019C3DC
+        MipBox9: 4x4@offset in pax file 0019C403
+        End of paxfile @ 0019C418
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_hexa.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.329412,0.321569,0.274510};
+        AVGCTAGG=FF545246;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 001284D1
+        MipBox2: 512x512@offset in pax file 001707E8
+        MipBox3: 256x256@offset in pax file 00183EBB
+        MipBox4: 128x128@offset in pax file 00189614
+        MipBox5: 64x64@offset in pax file 0018B61B
+        MipBox6: 32x32@offset in pax file 0018BE22
+        MipBox7: 16x16@offset in pax file 0018C029
+        MipBox8: 8x8@offset in pax file 0018C0B0
+        MipBox9: 4x4@offset in pax file 0018C0D7
+        End of paxfile @ 0018C0EC
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.505882,0.490196,1.000000};
+        AVGCTAGG=FF817DFF;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000080
+        MipBox1: 1024x1024@offset in pax file 000114BF
+        MipBox2: 512x512@offset in pax file 0001D6A5
+        MipBox3: 256x256@offset in pax file 0002325E
+        MipBox4: 128x128@offset in pax file 00023662
+        MipBox5: 64x64@offset in pax file 00027669
+        MipBox6: 32x32@offset in pax file 00028670
+        MipBox7: 16x16@offset in pax file 00028A77
+        MipBox8: 8x8@offset in pax file 00028B7E
+        MipBox9: 4x4@offset in pax file 00028BC5
+        End of paxfile @ 00028BE2
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_snk.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.372549,0.349020,0.286275};
+        AVGCTAGG=FF5F5949;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 0013D133
+        MipBox2: 512x512@offset in pax file 0018D7E3
+        MipBox3: 256x256@offset in pax file 001A2AE6
+        MipBox4: 128x128@offset in pax file 001A8822
+        MipBox5: 64x64@offset in pax file 001AA829
+        MipBox6: 32x32@offset in pax file 001AB030
+        MipBox7: 16x16@offset in pax file 001AB237
+        MipBox8: 8x8@offset in pax file 001AB2BE
+        MipBox9: 4x4@offset in pax file 001AB2E5
+        End of paxfile @ 001AB2FA
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\alat_combat.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.690196,0.372549,0.360784,0.290196};
+        AVGCTAGG=B05F5C4A;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00006F20
+        MipBox2: 64x64@offset in pax file 0000AF27
+        MipBox3: 32x32@offset in pax file 0000BF2E
+        MipBox4: 16x16@offset in pax file 0000C335
+        MipBox5: 8x8@offset in pax file 0000C43C
+        MipBox6: 4x4@offset in pax file 0000C483
+        End of paxfile @ 0000C4A0
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\flag\flag_template.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.121569,0.270588,0.262745,0.215686};
+        AVGCTAGG=1F454337;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00001C94
+        MipBox2: 64x64@offset in pax file 00005C9B
+        MipBox3: 32x32@offset in pax file 00006CA2
+        MipBox4: 16x16@offset in pax file 000070A9
+        MipBox5: 8x8@offset in pax file 000071B0
+        MipBox6: 4x4@offset in pax file 000071F7
+        End of paxfile @ 00007214
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\protech\prohelmet_carbon_co.paa
+        pax format=3 //ARGB1555 (paxfile=0x1555);
+        ARGBColor[]= {1.000000,0.176471,0.172549,0.172549};
+        AVGCTAGG=FF2D2C2C;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=1;
+        MipBox0: 4096x2043@offset in pax file 00000070
+        End of paxfile @ 003365F3
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\ir_diffuse.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.321569,0.313726,0.301961};
+        AVGCTAGG=FF52504D;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00129BDC
+        MipBox2: 512x512@offset in pax file 001721D8
+        MipBox3: 256x256@offset in pax file 0018437A
+        MipBox4: 128x128@offset in pax file 00188DDE
+        MipBox5: 64x64@offset in pax file 0018ADE5
+        MipBox6: 32x32@offset in pax file 0018B5EC
+        MipBox7: 16x16@offset in pax file 0018B7F3
+        MipBox8: 8x8@offset in pax file 0018B87A
+        MipBox9: 4x4@offset in pax file 0018B8A1
+        End of paxfile @ 0018B8B6
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\caqsue\casque_ce_bleu_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.164706,0.164706,0.133333};
+        AVGCTAGG=FF2A2A22;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 0015B367
+        MipBox2: 512x512@offset in pax file 001B4F4D
+        MipBox3: 256x256@offset in pax file 001CC3F7
+        MipBox4: 128x128@offset in pax file 001D2572
+        MipBox5: 64x64@offset in pax file 001D4579
+        MipBox6: 32x32@offset in pax file 001D4D80
+        MipBox7: 16x16@offset in pax file 001D4F87
+        MipBox8: 8x8@offset in pax file 001D500E
+        MipBox9: 4x4@offset in pax file 001D5035
+        End of paxfile @ 001D504A
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_mtp_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.250980,0.239216,0.192157};
+        AVGCTAGG=FF403D31;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 00373135
+        MipBox2: 1024x1024@offset in pax file 00468AAB
+        MipBox3: 512x512@offset in pax file 004A5C6C
+        MipBox4: 256x256@offset in pax file 004B67C0
+        MipBox5: 128x128@offset in pax file 004BB3BF
+        MipBox6: 64x64@offset in pax file 004BD3C6
+        MipBox7: 32x32@offset in pax file 004BDBCD
+        MipBox8: 16x16@offset in pax file 004BDDD4
+        MipBox9: 8x8@offset in pax file 004BDE5B
+        MipBox10: 4x4@offset in pax file 004BDE82
+        End of paxfile @ 004BDE97
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\maritime\maritime_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.501961,0.494118,0.988235};
+        AVGCTAGG=FF807EFC;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000080
+        MipBox1: 1024x1024@offset in pax file 001DA7FC
+        MipBox2: 512x512@offset in pax file 002718AF
+        MipBox3: 256x256@offset in pax file 0029C36C
+        MipBox4: 128x128@offset in pax file 002A6F4B
+        MipBox5: 64x64@offset in pax file 002AAF52
+        MipBox6: 32x32@offset in pax file 002ABF59
+        MipBox7: 16x16@offset in pax file 002AC360
+        MipBox8: 8x8@offset in pax file 002AC467
+        MipBox9: 4x4@offset in pax file 002AC4AE
+        End of paxfile @ 002AC4CB
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\team\st1.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {0.537255,0.235294,0.231373,0.235294};
+        AVGCTAGG=893C3B3C;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=true;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00003C50
+        MipBox2: 64x64@offset in pax file 00005C57
+        MipBox3: 32x32@offset in pax file 0000645E
+        MipBox4: 16x16@offset in pax file 00006665
+        MipBox5: 8x8@offset in pax file 000066EC
+        MipBox6: 4x4@offset in pax file 00006713
+        End of paxfile @ 00006728
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\plain_smdi.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.000000,0.000000,1.000000};
+        AVGCTAGG=FF0000FF;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=9; //Specular: (_sm, _smdi) amount of layer
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000080
+        MipBox1: 1024x1024@offset in pax file 00002C92
+        MipBox2: 512x512@offset in pax file 000037A4
+        MipBox3: 256x256@offset in pax file 00003A76
+        MipBox4: 128x128@offset in pax file 00003B38
+        MipBox5: 64x64@offset in pax file 00005B3F
+        MipBox6: 32x32@offset in pax file 00006346
+        MipBox7: 16x16@offset in pax file 0000654D
+        MipBox8: 8x8@offset in pax file 000065D4
+        MipBox9: 4x4@offset in pax file 000065FB
+        End of paxfile @ 00006610
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\asset_helmet_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.498039,0.498039,0.980392};
+        AVGCTAGG=FF7F7FFA;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000080
+        MipBox1: 2048x2048@offset in pax file 009F0D1F
+        MipBox2: 1024x1024@offset in pax file 00CACF46
+        MipBox3: 512x512@offset in pax file 00D59C9C
+        MipBox4: 256x256@offset in pax file 00D8395B
+        MipBox5: 128x128@offset in pax file 00D8E0FA
+        MipBox6: 64x64@offset in pax file 00D92101
+        MipBox7: 32x32@offset in pax file 00D93108
+        MipBox8: 16x16@offset in pax file 00D9350F
+        MipBox9: 8x8@offset in pax file 00D93616
+        MipBox10: 4x4@offset in pax file 00D9365D
+        End of paxfile @ 00D9367A
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\chemlight_blue_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.431373,0.517647,0.474510,0.611765};
+        AVGCTAGG=6E84799C;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00005C8E
+        MipBox2: 64x64@offset in pax file 00009C95
+        MipBox3: 32x32@offset in pax file 0000AC9C
+        MipBox4: 16x16@offset in pax file 0000B0A3
+        MipBox5: 8x8@offset in pax file 0000B1AA
+        MipBox6: 4x4@offset in pax file 0000B1F1
+        End of paxfile @ 0000B20E
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_fast_fs_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.368627,0.505882,0.458824,0.407843};
+        AVGCTAGG=5E817568;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004246
+        MipBox2: 64x64@offset in pax file 0000824D
+        MipBox3: 32x32@offset in pax file 00009254
+        MipBox4: 16x16@offset in pax file 0000965B
+        MipBox5: 8x8@offset in pax file 00009762
+        MipBox6: 4x4@offset in pax file 000097A9
+        End of paxfile @ 000097C6
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_helmet_fs_blk_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.321569,0.321569,0.321569};
+        AVGCTAGG=FF525252;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000070
+        MipBox1: 128x128@offset in pax file 00000D71
+        MipBox2: 64x64@offset in pax file 00004D78
+        MipBox3: 32x32@offset in pax file 00005D7F
+        MipBox4: 16x16@offset in pax file 00006186
+        MipBox5: 8x8@offset in pax file 0000628D
+        MipBox6: 4x4@offset in pax file 000062D4
+        End of paxfile @ 000062F1
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_mich2001_od_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.431373,0.250980,0.270588,0.211765};
+        AVGCTAGG=6E404536;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004509
+        MipBox2: 64x64@offset in pax file 00008510
+        MipBox3: 32x32@offset in pax file 00009517
+        MipBox4: 16x16@offset in pax file 0000991E
+        MipBox5: 8x8@offset in pax file 00009A25
+        MipBox6: 4x4@offset in pax file 00009A6C
+        End of paxfile @ 00009A89
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ops_core_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.305882,0.894118,0.894118,0.894118};
+        AVGCTAGG=4EE4E4E4;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 0000246A
+        MipBox2: 64x64@offset in pax file 00006471
+        MipBox3: 32x32@offset in pax file 00007478
+        MipBox4: 16x16@offset in pax file 0000787F
+        MipBox5: 8x8@offset in pax file 00007986
+        MipBox6: 4x4@offset in pax file 000079CD
+        End of paxfile @ 000079EA
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\patch_cos.ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.615686,0.309804,0.290196,0.164706};
+        AVGCTAGG=9D4F4A2A;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00005681
+        MipBox2: 64x64@offset in pax file 00009688
+        MipBox3: 32x32@offset in pax file 0000A68F
+        MipBox4: 16x16@offset in pax file 0000AA96
+        MipBox5: 8x8@offset in pax file 0000AB9D
+        MipBox6: 4x4@offset in pax file 0000ABE4
+        End of paxfile @ 0000AC01
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\maritime\maritime_as.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,1.000000,0.717647,1.000000};
+        AVGCTAGG=FFFFB7FF;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=8; //ambient shadow: (_as) layer
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000080
+        MipBox1: 1024x1024@offset in pax file 00160300
+        MipBox2: 512x512@offset in pax file 001B4F0F
+        MipBox3: 256x256@offset in pax file 001CA970
+        MipBox4: 128x128@offset in pax file 001D0BAA
+        MipBox5: 64x64@offset in pax file 001D2BB1
+        MipBox6: 32x32@offset in pax file 001D33B8
+        MipBox7: 16x16@offset in pax file 001D35BF
+        MipBox8: 8x8@offset in pax file 001D3646
+        MipBox9: 4x4@offset in pax file 001D366D
+        End of paxfile @ 001D3682
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\blood\o_pos.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.290196,0.274510,0.223529};
+        AVGCTAGG=824A4639;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004926
+        MipBox2: 64x64@offset in pax file 0000892D
+        MipBox3: 32x32@offset in pax file 00009934
+        MipBox4: 16x16@offset in pax file 00009D3B
+        MipBox5: 8x8@offset in pax file 00009E42
+        MipBox6: 4x4@offset in pax file 00009E89
+        End of paxfile @ 00009EA6
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\protech\prohelmet_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.176471,0.176471,0.176471};
+        AVGCTAGG=FF2D2D2D;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 2048x1024@offset in pax file 00000070
+        MipBox1: 1024x512@offset in pax file 0007FBFF
+        MipBox2: 512x256@offset in pax file 000A2ED8
+        MipBox3: 256x128@offset in pax file 000AC3C9
+        MipBox4: 128x64@offset in pax file 000AECA7
+        MipBox5: 64x32@offset in pax file 000AFCAE
+        MipBox6: 32x16@offset in pax file 000B00B5
+        MipBox7: 16x8@offset in pax file 000B01BC
+        MipBox8: 8x4@offset in pax file 000B0203
+        End of paxfile @ 000B0220
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\acc_soc_warbungee_m2000_smdi.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,1.000000,0.094118,0.137255};
+        AVGCTAGG=FFFF1823;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=9; //Specular: (_sm, _smdi) amount of layer
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000080
+        MipBox1: 512x512@offset in pax file 00032667
+        MipBox2: 256x256@offset in pax file 00040255
+        MipBox3: 128x128@offset in pax file 0004377C
+        MipBox4: 64x64@offset in pax file 00045783
+        MipBox5: 32x32@offset in pax file 00045F8A
+        MipBox6: 16x16@offset in pax file 00046191
+        MipBox7: 8x8@offset in pax file 00046218
+        MipBox8: 4x4@offset in pax file 0004623F
+        End of paxfile @ 00046254
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\manta_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.501961,0.501961,0.984314};
+        AVGCTAGG=FF8080FB;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=8;
+        MipBox0: 512x512@offset in pax file 00000080
+        MipBox1: 256x256@offset in pax file 0001942F
+        MipBox2: 128x128@offset in pax file 000219C2
+        MipBox3: 64x64@offset in pax file 000259C9
+        MipBox4: 32x32@offset in pax file 000269D0
+        MipBox5: 16x16@offset in pax file 00026DD7
+        MipBox6: 8x8@offset in pax file 00026EDE
+        MipBox7: 4x4@offset in pax file 00026F25
+        End of paxfile @ 00026F42
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\fast_helmet\fast_helmet_tan.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.200000,0.200000,0.160784};
+        AVGCTAGG=FF333329;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 00339CC5
+        MipBox2: 1024x1024@offset in pax file 00417D24
+        MipBox3: 512x512@offset in pax file 0044F2FD
+        MipBox4: 256x256@offset in pax file 0045DF93
+        MipBox5: 128x128@offset in pax file 00462255
+        MipBox6: 64x64@offset in pax file 0046425C
+        MipBox7: 32x32@offset in pax file 00464A63
+        MipBox8: 16x16@offset in pax file 00464C6A
+        MipBox9: 8x8@offset in pax file 00464CF1
+        MipBox10: 4x4@offset in pax file 00464D18
+        End of paxfile @ 00464D2D
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\maritime\maritime_blk_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.125490,0.117647,0.105882};
+        AVGCTAGG=FF201E1B;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00151002
+        MipBox2: 512x512@offset in pax file 001A7076
+        MipBox3: 256x256@offset in pax file 001BD6BD
+        MipBox4: 128x128@offset in pax file 001C3588
+        MipBox5: 64x64@offset in pax file 001C558F
+        MipBox6: 32x32@offset in pax file 001C5D96
+        MipBox7: 16x16@offset in pax file 001C5F9D
+        MipBox8: 8x8@offset in pax file 001C6024
+        MipBox9: 4x4@offset in pax file 001C604B
+        End of paxfile @ 001C6060
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\blood\a_pos.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.266667,0.254902,0.200000};
+        AVGCTAGG=82444133;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 000047D4
+        MipBox2: 64x64@offset in pax file 000087DB
+        MipBox3: 32x32@offset in pax file 000097E2
+        MipBox4: 16x16@offset in pax file 00009BE9
+        MipBox5: 8x8@offset in pax file 00009CF0
+        MipBox6: 4x4@offset in pax file 00009D37
+        End of paxfile @ 00009D54
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\blood\o_neg.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.274510,0.258824,0.211765};
+        AVGCTAGG=82464236;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004684
+        MipBox2: 64x64@offset in pax file 0000868B
+        MipBox3: 32x32@offset in pax file 00009692
+        MipBox4: 16x16@offset in pax file 00009A99
+        MipBox5: 8x8@offset in pax file 00009BA0
+        MipBox6: 4x4@offset in pax file 00009BE7
+        End of paxfile @ 00009C04
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\flag\flag_france.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.254902,0.239216,0.243137};
+        AVGCTAGG=82413D3E;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004E28
+        MipBox2: 64x64@offset in pax file 00008E2F
+        MipBox3: 32x32@offset in pax file 00009E36
+        MipBox4: 16x16@offset in pax file 0000A23D
+        MipBox5: 8x8@offset in pax file 0000A344
+        MipBox6: 4x4@offset in pax file 0000A38B
+        End of paxfile @ 0000A3A8
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\protech\prohelmet_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.360784,0.360784,0.600000};
+        AVGCTAGG=FF5C5C99;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=9;
+        MipBox0: 2048x1024@offset in pax file 00000080
+        MipBox1: 1024x512@offset in pax file 000CD226
+        MipBox2: 512x256@offset in pax file 00104CA2
+        MipBox3: 256x128@offset in pax file 001141A4
+        MipBox4: 128x64@offset in pax file 001186B7
+        MipBox5: 64x32@offset in pax file 0011A6BE
+        MipBox6: 32x16@offset in pax file 0011AEC5
+        MipBox7: 16x8@offset in pax file 0011B0CC
+        MipBox8: 8x4@offset in pax file 0011B153
+        End of paxfile @ 0011B180
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\chemlight_yellow_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.431373,0.541176,0.568627,0.364706};
+        AVGCTAGG=6E8A915D;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 0000616A
+        MipBox2: 64x64@offset in pax file 0000A171
+        MipBox3: 32x32@offset in pax file 0000B178
+        MipBox4: 16x16@offset in pax file 0000B57F
+        MipBox5: 8x8@offset in pax file 0000B686
+        MipBox6: 4x4@offset in pax file 0000B6CD
+        End of paxfile @ 0000B6EA
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.490196,0.490196,0.992157};
+        AVGCTAGG=FF7D7DFD;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000080
+        MipBox1: 2048x2048@offset in pax file 009F5835
+        MipBox2: 1024x1024@offset in pax file 00CB6E7F
+        MipBox3: 512x512@offset in pax file 00D7192E
+        MipBox4: 256x256@offset in pax file 00DA04B4
+        MipBox5: 128x128@offset in pax file 00DAC2E1
+        MipBox6: 64x64@offset in pax file 00DB02E8
+        MipBox7: 32x32@offset in pax file 00DB12EF
+        MipBox8: 16x16@offset in pax file 00DB16F6
+        MipBox9: 8x8@offset in pax file 00DB17FD
+        MipBox10: 4x4@offset in pax file 00DB1844
+        End of paxfile @ 00DB1861
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_od_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.215686,0.211765,0.176471};
+        AVGCTAGG=FF37362D;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 0039D5E7
+        MipBox2: 1024x1024@offset in pax file 004A49F2
+        MipBox3: 512x512@offset in pax file 004E9DF7
+        MipBox4: 256x256@offset in pax file 004FC757
+        MipBox5: 128x128@offset in pax file 00501A30
+        MipBox6: 64x64@offset in pax file 00503A37
+        MipBox7: 32x32@offset in pax file 0050423E
+        MipBox8: 16x16@offset in pax file 00504445
+        MipBox9: 8x8@offset in pax file 005044CC
+        MipBox10: 4x4@offset in pax file 005044F3
+        End of paxfile @ 00504508
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\icon_gign.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.498039,0.741176,0.741176,0.741176};
+        AVGCTAGG=7FBDBDBD;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 0000155F
+        MipBox2: 64x64@offset in pax file 00005566
+        MipBox3: 32x32@offset in pax file 0000656D
+        MipBox4: 16x16@offset in pax file 00006974
+        MipBox5: 8x8@offset in pax file 00006A7B
+        MipBox6: 4x4@offset in pax file 00006AC2
+        End of paxfile @ 00006ADF
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_mich2001_des_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.431373,0.227451,0.243137,0.196078};
+        AVGCTAGG=6E3A3E32;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004E4A
+        MipBox2: 64x64@offset in pax file 00008E51
+        MipBox3: 32x32@offset in pax file 00009E58
+        MipBox4: 16x16@offset in pax file 0000A25F
+        MipBox5: 8x8@offset in pax file 0000A366
+        MipBox6: 4x4@offset in pax file 0000A3AD
+        End of paxfile @ 0000A3CA
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_mich2001_snk_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.435294,0.301961,0.282353,0.172549};
+        AVGCTAGG=6F4D482C;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004CBF
+        MipBox2: 64x64@offset in pax file 00008CC6
+        MipBox3: 32x32@offset in pax file 00009CCD
+        MipBox4: 16x16@offset in pax file 0000A0D4
+        MipBox5: 8x8@offset in pax file 0000A1DB
+        MipBox6: 4x4@offset in pax file 0000A222
+        End of paxfile @ 0000A23F
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_blk.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.250980,0.243137,0.211765};
+        AVGCTAGG=FF403E36;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00102A76
+        MipBox2: 512x512@offset in pax file 001401E6
+        MipBox3: 256x256@offset in pax file 00150605
+        MipBox4: 128x128@offset in pax file 0015511C
+        MipBox5: 64x64@offset in pax file 00157123
+        MipBox6: 32x32@offset in pax file 0015792A
+        MipBox7: 16x16@offset in pax file 00157B31
+        MipBox8: 8x8@offset in pax file 00157BB8
+        MipBox9: 4x4@offset in pax file 00157BDF
+        End of paxfile @ 00157BF4
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_tan_kry.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.376471,0.356863,0.294118};
+        AVGCTAGG=FF605B4B;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 0013AFC2
+        MipBox2: 512x512@offset in pax file 0018AF6F
+        MipBox3: 256x256@offset in pax file 001A008C
+        MipBox4: 128x128@offset in pax file 001A5D72
+        MipBox5: 64x64@offset in pax file 001A7D79
+        MipBox6: 32x32@offset in pax file 001A8580
+        MipBox7: 16x16@offset in pax file 001A8787
+        MipBox8: 8x8@offset in pax file 001A880E
+        MipBox9: 4x4@offset in pax file 001A8835
+        End of paxfile @ 001A884A
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\flag\flag_france.bv.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.505882,0.180392,0.192157,0.121569};
+        AVGCTAGG=812E311F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004682
+        MipBox2: 64x64@offset in pax file 00008689
+        MipBox3: 32x32@offset in pax file 00009690
+        MipBox4: 16x16@offset in pax file 00009A97
+        MipBox5: 8x8@offset in pax file 00009B9E
+        MipBox6: 4x4@offset in pax file 00009BE5
+        End of paxfile @ 00009C02
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\flag\flag_jtac.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.360784,0.305882,0.219608};
+        AVGCTAGG=825C4E38;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 000049AE
+        MipBox2: 64x64@offset in pax file 000089B5
+        MipBox3: 32x32@offset in pax file 000099BC
+        MipBox4: 16x16@offset in pax file 00009DC3
+        MipBox5: 8x8@offset in pax file 00009ECA
+        MipBox6: 4x4@offset in pax file 00009F11
+        End of paxfile @ 00009F2E
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\team\st4.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {0.541176,0.243137,0.239216,0.243137};
+        AVGCTAGG=8A3E3D3E;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=true;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00003C58
+        MipBox2: 64x64@offset in pax file 00005C5F
+        MipBox3: 32x32@offset in pax file 00006466
+        MipBox4: 16x16@offset in pax file 0000666D
+        MipBox5: 8x8@offset in pax file 000066F4
+        MipBox6: 4x4@offset in pax file 0000671B
+        End of paxfile @ 00006730
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\assets.smdi .paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,1.000000,0.003922,0.231373};
+        AVGCTAGG=FFFF013B;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 00024E23
+        MipBox2: 256x256@offset in pax file 0002B42F
+        MipBox3: 128x128@offset in pax file 0002D94D
+        MipBox4: 64x64@offset in pax file 0002F954
+        MipBox5: 32x32@offset in pax file 0003015B
+        MipBox6: 16x16@offset in pax file 00030362
+        MipBox7: 8x8@offset in pax file 000303E9
+        MipBox8: 4x4@offset in pax file 00030410
+        End of paxfile @ 00030425
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\strap_rar_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.345098,0.317647,0.247059};
+        AVGCTAGG=FF58513F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 000BFA79
+        MipBox2: 1024x1024@offset in pax file 000F37F1
+        MipBox3: 512x512@offset in pax file 0010030E
+        MipBox4: 256x256@offset in pax file 001037A3
+        MipBox5: 128x128@offset in pax file 001044D9
+        MipBox6: 64x64@offset in pax file 001064E0
+        MipBox7: 32x32@offset in pax file 00106CE7
+        MipBox8: 16x16@offset in pax file 00106EEE
+        MipBox9: 8x8@offset in pax file 00106F75
+        MipBox10: 4x4@offset in pax file 00106F9C
+        End of paxfile @ 00106FB1
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\velcro_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.450980,0.435294,0.886275};
+        AVGCTAGG=FF736FE2;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000080
+        MipBox1: 1024x1024@offset in pax file 0022AB31
+        MipBox2: 512x512@offset in pax file 002C0349
+        MipBox3: 256x256@offset in pax file 002E62E4
+        MipBox4: 128x128@offset in pax file 002EFC72
+        MipBox5: 64x64@offset in pax file 002F3C79
+        MipBox6: 32x32@offset in pax file 002F4C80
+        MipBox7: 16x16@offset in pax file 002F5087
+        MipBox8: 8x8@offset in pax file 002F518E
+        MipBox9: 4x4@offset in pax file 002F51D5
+        End of paxfile @ 002F51F2
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\fast_helmet\fast_helmet.smdi.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,1.000000,0.200000,0.239216};
+        AVGCTAGG=FFFF333D;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 000C000B
+        MipBox2: 512x512@offset in pax file 000F3CAA
+        MipBox3: 256x256@offset in pax file 001023A8
+        MipBox4: 128x128@offset in pax file 001069C8
+        MipBox5: 64x64@offset in pax file 001089CF
+        MipBox6: 32x32@offset in pax file 001091D6
+        MipBox7: 16x16@offset in pax file 001093DD
+        MipBox8: 8x8@offset in pax file 00109464
+        MipBox9: 4x4@offset in pax file 0010948B
+        End of paxfile @ 001094A0
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\halo_set_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.145098,0.839216,0.878431,0.890196};
+        AVGCTAGG=25D6E0E3;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00001522
+        MipBox2: 64x64@offset in pax file 00005529
+        MipBox3: 32x32@offset in pax file 00006530
+        MipBox4: 16x16@offset in pax file 00006937
+        MipBox5: 8x8@offset in pax file 00006A3E
+        MipBox6: 4x4@offset in pax file 00006A85
+        End of paxfile @ 00006AA2
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\flag\flag_medic.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.294118,0.278431,0.203922};
+        AVGCTAGG=824B4734;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004CB3
+        MipBox2: 64x64@offset in pax file 00008CBA
+        MipBox3: 32x32@offset in pax file 00009CC1
+        MipBox4: 16x16@offset in pax file 0000A0C8
+        MipBox5: 8x8@offset in pax file 0000A1CF
+        MipBox6: 4x4@offset in pax file 0000A216
+        End of paxfile @ 0000A233
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\protech\prohelmet_dt.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {0.447059,0.474510,0.474510,0.474510};
+        AVGCTAGG=72797979;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=true;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=2; //detail Linear: (_detail,_cdt,_dt,_mco) detail texture, linear color space
+        MipMaps=9;
+        MipBox0: 2048x1024@offset in pax file 00000090
+        MipBox1: 1024x512@offset in pax file 0001FD86
+        MipBox2: 512x256@offset in pax file 0002CA2C
+        MipBox3: 256x128@offset in pax file 000313DE
+        MipBox4: 128x64@offset in pax file 00032CE1
+        MipBox5: 64x32@offset in pax file 00033CE8
+        MipBox6: 32x16@offset in pax file 000340EF
+        MipBox7: 16x8@offset in pax file 000341F6
+        MipBox8: 8x4@offset in pax file 0003423D
+        End of paxfile @ 0003425A
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\batterie.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.270588,0.203922,0.188235};
+        AVGCTAGG=FF453430;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 0003AE9E
+        MipBox2: 256x256@offset in pax file 0004F5D6
+        MipBox3: 128x128@offset in pax file 00055190
+        MipBox4: 64x64@offset in pax file 00057197
+        MipBox5: 32x32@offset in pax file 0005799E
+        MipBox6: 16x16@offset in pax file 00057BA5
+        MipBox7: 8x8@offset in pax file 00057C2C
+        MipBox8: 4x4@offset in pax file 00057C53
+        End of paxfile @ 00057C68
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\velcro_blk.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.105882,0.105882,0.105882};
+        AVGCTAGG=FF1B1B1B;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 000BAE9F
+        MipBox2: 512x512@offset in pax file 000F3A1A
+        MipBox3: 256x256@offset in pax file 001029AD
+        MipBox4: 128x128@offset in pax file 00106675
+        MipBox5: 64x64@offset in pax file 0010867C
+        MipBox6: 32x32@offset in pax file 00108E83
+        MipBox7: 16x16@offset in pax file 0010908A
+        MipBox8: 8x8@offset in pax file 00109111
+        MipBox9: 4x4@offset in pax file 00109138
+        End of paxfile @ 0010914D
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_helmet_fs_scorpion_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.360784,0.345098,0.247059};
+        AVGCTAGG=FF5C583F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000070
+        MipBox1: 128x128@offset in pax file 0000534D
+        MipBox2: 64x64@offset in pax file 00009354
+        MipBox3: 32x32@offset in pax file 0000A35B
+        MipBox4: 16x16@offset in pax file 0000A762
+        MipBox5: 8x8@offset in pax file 0000A869
+        MipBox6: 4x4@offset in pax file 0000A8B0
+        End of paxfile @ 0000A8CD
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\acc_soc_warbungee_m2000_od_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.105882,0.113725,0.125490};
+        AVGCTAGG=FF1B1D20;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 0003DA37
+        MipBox2: 256x256@offset in pax file 0004DEE4
+        MipBox3: 128x128@offset in pax file 00052293
+        MipBox4: 64x64@offset in pax file 0005429A
+        MipBox5: 32x32@offset in pax file 00054AA1
+        MipBox6: 16x16@offset in pax file 00054CA8
+        MipBox7: 8x8@offset in pax file 00054D2F
+        MipBox8: 4x4@offset in pax file 00054D56
+        End of paxfile @ 00054D6B
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\manta_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.384314,0.368627,0.333333};
+        AVGCTAGG=FF625E55;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=8;
+        MipBox0: 512x512@offset in pax file 00000070
+        MipBox1: 256x256@offset in pax file 0001CC0B
+        MipBox2: 128x128@offset in pax file 00023E3F
+        MipBox3: 64x64@offset in pax file 00025E46
+        MipBox4: 32x32@offset in pax file 0002664D
+        MipBox5: 16x16@offset in pax file 00026854
+        MipBox6: 8x8@offset in pax file 000268DB
+        MipBox7: 4x4@offset in pax file 00026902
+        End of paxfile @ 00026917
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\v.lite_smdi.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,1.000000,0.000000,0.247059};
+        AVGCTAGG=FFFF003F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=9; //Specular: (_sm, _smdi) amount of layer
+        MipMaps=8;
+        MipBox0: 512x512@offset in pax file 00000080
+        MipBox1: 256x256@offset in pax file 0000AA2E
+        MipBox2: 128x128@offset in pax file 0000DF94
+        MipBox3: 64x64@offset in pax file 0000FF9B
+        MipBox4: 32x32@offset in pax file 000107A2
+        MipBox5: 16x16@offset in pax file 000109A9
+        MipBox6: 8x8@offset in pax file 00010A30
+        MipBox7: 4x4@offset in pax file 00010A57
+        End of paxfile @ 00010A6C
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\team\st2.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {0.541176,0.247059,0.243137,0.247059};
+        AVGCTAGG=8A3F3E3F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=true;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00003CE4
+        MipBox2: 64x64@offset in pax file 00005CEB
+        MipBox3: 32x32@offset in pax file 000064F2
+        MipBox4: 16x16@offset in pax file 000066F9
+        MipBox5: 8x8@offset in pax file 00006780
+        MipBox6: 4x4@offset in pax file 000067A7
+        End of paxfile @ 000067BC
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\chemlight_green_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.431373,0.411765,0.521569,0.407843};
+        AVGCTAGG=6E698568;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00005EC6
+        MipBox2: 64x64@offset in pax file 00009ECD
+        MipBox3: 32x32@offset in pax file 0000AED4
+        MipBox4: 16x16@offset in pax file 0000B2DB
+        MipBox5: 8x8@offset in pax file 0000B3E2
+        MipBox6: 4x4@offset in pax file 0000B429
+        End of paxfile @ 0000B446
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\velcro_br.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.298039,0.266667,0.211765};
+        AVGCTAGG=FF4C4436;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 001052F6
+        MipBox2: 512x512@offset in pax file 0014A7A8
+        MipBox3: 256x256@offset in pax file 0015B60B
+        MipBox4: 128x128@offset in pax file 0015F6F9
+        MipBox5: 64x64@offset in pax file 00161700
+        MipBox6: 32x32@offset in pax file 00161F07
+        MipBox7: 16x16@offset in pax file 0016210E
+        MipBox8: 8x8@offset in pax file 00162195
+        MipBox9: 4x4@offset in pax file 001621BC
+        End of paxfile @ 001621D1
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\caqsue\michhelmet_gign.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.149020,0.152941,0.168627};
+        AVGCTAGG=FF26272B;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 000501C3
+        MipBox2: 256x256@offset in pax file 00061D6E
+        MipBox3: 128x128@offset in pax file 00064F13
+        MipBox4: 64x64@offset in pax file 00066F1A
+        MipBox5: 32x32@offset in pax file 00067721
+        MipBox6: 16x16@offset in pax file 00067928
+        MipBox7: 8x8@offset in pax file 000679AF
+        MipBox8: 4x4@offset in pax file 000679D6
+        End of paxfile @ 000679EB
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_ce_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.223529,0.215686,0.180392};
+        AVGCTAGG=FF39372E;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 003A450B
+        MipBox2: 1024x1024@offset in pax file 004A98A2
+        MipBox3: 512x512@offset in pax file 004EE864
+        MipBox4: 256x256@offset in pax file 00500ED1
+        MipBox5: 128x128@offset in pax file 00506050
+        MipBox6: 64x64@offset in pax file 00508057
+        MipBox7: 32x32@offset in pax file 0050885E
+        MipBox8: 16x16@offset in pax file 00508A65
+        MipBox9: 8x8@offset in pax file 00508AEC
+        MipBox10: 4x4@offset in pax file 00508B13
+        End of paxfile @ 00508B28
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_tan_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.250980,0.235294,0.192157};
+        AVGCTAGG=FF403C31;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 00361FC0
+        MipBox2: 1024x1024@offset in pax file 00452FA4
+        MipBox3: 512x512@offset in pax file 0048F36F
+        MipBox4: 256x256@offset in pax file 0049FB2E
+        MipBox5: 128x128@offset in pax file 004A4626
+        MipBox6: 64x64@offset in pax file 004A662D
+        MipBox7: 32x32@offset in pax file 004A6E34
+        MipBox8: 16x16@offset in pax file 004A703B
+        MipBox9: 8x8@offset in pax file 004A70C2
+        MipBox10: 4x4@offset in pax file 004A70E9
+        End of paxfile @ 004A70FE
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\plain_nohq.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.529412,0.560784,0.941177};
+        AVGCTAGG=FF878FF0;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=8;
+        MipBox0: 512x512@offset in pax file 00000070
+        MipBox1: 256x256@offset in pax file 000003F2
+        MipBox2: 128x128@offset in pax file 00000537
+        MipBox3: 64x64@offset in pax file 0000253E
+        MipBox4: 32x32@offset in pax file 00002D45
+        MipBox5: 16x16@offset in pax file 00002F4C
+        MipBox6: 8x8@offset in pax file 00002FD3
+        MipBox7: 4x4@offset in pax file 00002FFA
+        End of paxfile @ 0000300F
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\chemlight_body_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.415686,0.466667,0.466667,0.466667};
+        AVGCTAGG=6A777777;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00006494
+        MipBox2: 64x64@offset in pax file 0000A49B
+        MipBox3: 32x32@offset in pax file 0000B4A2
+        MipBox4: 16x16@offset in pax file 0000B8A9
+        MipBox5: 8x8@offset in pax file 0000B9B0
+        MipBox6: 4x4@offset in pax file 0000B9F7
+        End of paxfile @ 0000BA14
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\ms200_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.184314,0.180392,0.160784};
+        AVGCTAGG=FF2F2E29;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 00049983
+        MipBox2: 256x256@offset in pax file 0005F026
+        MipBox3: 128x128@offset in pax file 00064D52
+        MipBox4: 64x64@offset in pax file 00066D59
+        MipBox5: 32x32@offset in pax file 00067560
+        MipBox6: 16x16@offset in pax file 00067767
+        MipBox7: 8x8@offset in pax file 000677EE
+        MipBox8: 4x4@offset in pax file 00067815
+        End of paxfile @ 0006782A
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_blk.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.203922,0.196078,0.164706};
+        AVGCTAGG=FF34322A;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 0034F717
+        MipBox2: 1024x1024@offset in pax file 0044411C
+        MipBox3: 512x512@offset in pax file 0048272C
+        MipBox4: 256x256@offset in pax file 00492FF1
+        MipBox5: 128x128@offset in pax file 00497908
+        MipBox6: 64x64@offset in pax file 0049990F
+        MipBox7: 32x32@offset in pax file 0049A116
+        MipBox8: 16x16@offset in pax file 0049A31D
+        MipBox9: 8x8@offset in pax file 0049A3A4
+        MipBox10: 4x4@offset in pax file 0049A3CB
+        End of paxfile @ 0049A3E0
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_helmet_fs_tan_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.407843,0.376471,0.290196};
+        AVGCTAGG=FF68604A;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000070
+        MipBox1: 128x128@offset in pax file 00000A8F
+        MipBox2: 64x64@offset in pax file 00004A96
+        MipBox3: 32x32@offset in pax file 00005A9D
+        MipBox4: 16x16@offset in pax file 00005EA4
+        MipBox5: 8x8@offset in pax file 00005FAB
+        MipBox6: 4x4@offset in pax file 00005FF2
+        End of paxfile @ 0000600F
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_od.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.325490,0.317647,0.270588};
+        AVGCTAGG=FF535145;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00119FBB
+        MipBox2: 512x512@offset in pax file 0015F65A
+        MipBox3: 256x256@offset in pax file 00171583
+        MipBox4: 128x128@offset in pax file 0017653F
+        MipBox5: 64x64@offset in pax file 00178546
+        MipBox6: 32x32@offset in pax file 00178D4D
+        MipBox7: 16x16@offset in pax file 00178F54
+        MipBox8: 8x8@offset in pax file 00178FDB
+        MipBox9: 4x4@offset in pax file 00179002
+        End of paxfile @ 00179017
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_smdi.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.992157,0.043137,0.172549};
+        AVGCTAGG=FFFD0B2C;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=9; //Specular: (_sm, _smdi) amount of layer
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000080
+        MipBox1: 1024x1024@offset in pax file 000D8CB1
+        MipBox2: 512x512@offset in pax file 00111486
+        MipBox3: 256x256@offset in pax file 0011F5CA
+        MipBox4: 128x128@offset in pax file 00122F02
+        MipBox5: 64x64@offset in pax file 00124F09
+        MipBox6: 32x32@offset in pax file 00125710
+        MipBox7: 16x16@offset in pax file 00125917
+        MipBox8: 8x8@offset in pax file 0012599E
+        MipBox9: 4x4@offset in pax file 001259C5
+        End of paxfile @ 001259DA
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\maritime\maritime_smdi.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,1.000000,0.168627,0.984314};
+        AVGCTAGG=FFFF2BFB;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=9; //Specular: (_sm, _smdi) amount of layer
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000080
+        MipBox1: 1024x1024@offset in pax file 00133DF3
+        MipBox2: 512x512@offset in pax file 00187452
+        MipBox3: 256x256@offset in pax file 0019C7E2
+        MipBox4: 128x128@offset in pax file 001A2285
+        MipBox5: 64x64@offset in pax file 001A428C
+        MipBox6: 32x32@offset in pax file 001A4A93
+        MipBox7: 16x16@offset in pax file 001A4C9A
+        MipBox8: 8x8@offset in pax file 001A4D21
+        MipBox9: 4x4@offset in pax file 001A4D48
+        End of paxfile @ 001A4D5D
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\acc_soc_warbungee_m2000_nohq.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.498039,0.513726,1.000000};
+        AVGCTAGG=FF7F83FF;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=3; //normal map: (_nXXX)
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000080
+        MipBox1: 512x512@offset in pax file 000750C0
+        MipBox2: 256x256@offset in pax file 00094560
+        MipBox3: 128x128@offset in pax file 0009D04D
+        MipBox4: 64x64@offset in pax file 000A1054
+        MipBox5: 32x32@offset in pax file 000A205B
+        MipBox6: 16x16@offset in pax file 000A2462
+        MipBox7: 8x8@offset in pax file 000A2569
+        MipBox8: 4x4@offset in pax file 000A25B0
+        End of paxfile @ 000A25CD
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\assets.nohq .paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.505882,0.505882,0.988235};
+        AVGCTAGG=FF8181FC;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 0004B606
+        MipBox2: 256x256@offset in pax file 000608D2
+        MipBox3: 128x128@offset in pax file 0006663A
+        MipBox4: 64x64@offset in pax file 00068641
+        MipBox5: 32x32@offset in pax file 00068E48
+        MipBox6: 16x16@offset in pax file 0006904F
+        MipBox7: 8x8@offset in pax file 000690D6
+        MipBox8: 4x4@offset in pax file 000690FD
+        End of paxfile @ 00069112
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\band_strap.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.117647,0.117647,0.117647};
+        AVGCTAGG=FF1E1E1E;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00021372
+        MipBox2: 512x512@offset in pax file 00028DBB
+        MipBox3: 256x256@offset in pax file 0002BD44
+        MipBox4: 128x128@offset in pax file 0002CB14
+        MipBox5: 64x64@offset in pax file 0002EB1B
+        MipBox6: 32x32@offset in pax file 0002F322
+        MipBox7: 16x16@offset in pax file 0002F529
+        MipBox8: 8x8@offset in pax file 0002F5B0
+        MipBox9: 4x4@offset in pax file 0002F5D7
+        End of paxfile @ 0002F5EC
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\helmet_sangle_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.196078,0.192157,0.219608};
+        AVGCTAGG=FF323138;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 00010EDA
+        MipBox2: 256x256@offset in pax file 000163E2
+        MipBox3: 128x128@offset in pax file 00017C85
+        MipBox4: 64x64@offset in pax file 00019C8C
+        MipBox5: 32x32@offset in pax file 0001A493
+        MipBox6: 16x16@offset in pax file 0001A69A
+        MipBox7: 8x8@offset in pax file 0001A721
+        MipBox8: 4x4@offset in pax file 0001A748
+        End of paxfile @ 0001A75D
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\fast_helmet\fast_helmet_num.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.219608,0.211765,0.168627};
+        AVGCTAGG=FF38362B;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 00349255
+        MipBox2: 1024x1024@offset in pax file 0042AC63
+        MipBox3: 512x512@offset in pax file 004635FA
+        MipBox4: 256x256@offset in pax file 004727D4
+        MipBox5: 128x128@offset in pax file 00476C51
+        MipBox6: 64x64@offset in pax file 00478C58
+        MipBox7: 32x32@offset in pax file 0047945F
+        MipBox8: 16x16@offset in pax file 00479666
+        MipBox9: 8x8@offset in pax file 004796ED
+        MipBox10: 4x4@offset in pax file 00479714
+        End of paxfile @ 00479729
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\helmet_od_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.988235,0.215686,0.211765,0.176471};
+        AVGCTAGG=FC37362D;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000080
+        MipBox1: 2048x2048@offset in pax file 0042D654
+        MipBox2: 1024x1024@offset in pax file 0055A242
+        MipBox3: 512x512@offset in pax file 005A9A9B
+        MipBox4: 256x256@offset in pax file 005BEE3C
+        MipBox5: 128x128@offset in pax file 005C4D45
+        MipBox6: 64x64@offset in pax file 005C8D4C
+        MipBox7: 32x32@offset in pax file 005C9D53
+        MipBox8: 16x16@offset in pax file 005CA15A
+        MipBox9: 8x8@offset in pax file 005CA261
+        MipBox10: 4x4@offset in pax file 005CA2A8
+        End of paxfile @ 005CA2C5
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_helmet_fs_od_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {1.000000,0.203922,0.211765,0.184314};
+        AVGCTAGG=FF34362F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000070
+        MipBox1: 128x128@offset in pax file 00000AC1
+        MipBox2: 64x64@offset in pax file 00004AC8
+        MipBox3: 32x32@offset in pax file 00005ACF
+        MipBox4: 16x16@offset in pax file 00005ED6
+        MipBox5: 8x8@offset in pax file 00005FDD
+        MipBox6: 4x4@offset in pax file 00006024
+        End of paxfile @ 00006041
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\ic_maritime_f_ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.537255,0.180392,0.164706,0.145098};
+        AVGCTAGG=892E2A25;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 000059FA
+        MipBox2: 64x64@offset in pax file 00009A01
+        MipBox3: 32x32@offset in pax file 0000AA08
+        MipBox4: 16x16@offset in pax file 0000AE0F
+        MipBox5: 8x8@offset in pax file 0000AF16
+        MipBox6: 4x4@offset in pax file 0000AF5D
+        End of paxfile @ 0000AF7A
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\icon\logo_cos.ca.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.219608,0.623529,0.607843,0.560784};
+        AVGCTAGG=389F9B8F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=true;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00002AFB
+        MipBox2: 64x64@offset in pax file 00006B02
+        MipBox3: 32x32@offset in pax file 00007B09
+        MipBox4: 16x16@offset in pax file 00007F10
+        MipBox5: 8x8@offset in pax file 00008017
+        MipBox6: 4x4@offset in pax file 0000805E
+        End of paxfile @ 0000807B
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\light_helmet\helmet_base_wh.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.360784,0.352941,0.321569};
+        AVGCTAGG=FF5C5A52;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00145402
+        MipBox2: 512x512@offset in pax file 00198E7F
+        MipBox3: 256x256@offset in pax file 001AF071
+        MipBox4: 128x128@offset in pax file 001B526B
+        MipBox5: 64x64@offset in pax file 001B7272
+        MipBox6: 32x32@offset in pax file 001B7A79
+        MipBox7: 16x16@offset in pax file 001B7C80
+        MipBox8: 8x8@offset in pax file 001B7D07
+        MipBox9: 4x4@offset in pax file 001B7D2E
+        End of paxfile @ 001B7D43
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\assets.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.156863,0.149020,0.133333};
+        AVGCTAGG=FF282622;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 0002C111
+        MipBox2: 256x256@offset in pax file 00038E91
+        MipBox3: 128x128@offset in pax file 0003C8EA
+        MipBox4: 64x64@offset in pax file 0003E8F1
+        MipBox5: 32x32@offset in pax file 0003F0F8
+        MipBox6: 16x16@offset in pax file 0003F2FF
+        MipBox7: 8x8@offset in pax file 0003F386
+        MipBox8: 4x4@offset in pax file 0003F3AD
+        End of paxfile @ 0003F3C2
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\assets_strap.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.172549,0.180392,0.149020};
+        AVGCTAGG=FF2C2E26;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=9;
+        MipBox0: 1024x1024@offset in pax file 00000070
+        MipBox1: 512x512@offset in pax file 000498EB
+        MipBox2: 256x256@offset in pax file 0005C91D
+        MipBox3: 128x128@offset in pax file 0006148C
+        MipBox4: 64x64@offset in pax file 00063493
+        MipBox5: 32x32@offset in pax file 00063C9A
+        MipBox6: 16x16@offset in pax file 00063EA1
+        MipBox7: 8x8@offset in pax file 00063F28
+        MipBox8: 4x4@offset in pax file 00063F4F
+        End of paxfile @ 00063F64
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\acc\base_strap_tan.co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.266667,0.247059,0.207843};
+        AVGCTAGG=FF443F35;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 000CE8B0
+        MipBox2: 512x512@offset in pax file 0011C9D1
+        MipBox3: 256x256@offset in pax file 0012EB32
+        MipBox4: 128x128@offset in pax file 00133BB4
+        MipBox5: 64x64@offset in pax file 00135BBB
+        MipBox6: 32x32@offset in pax file 001363C2
+        MipBox7: 16x16@offset in pax file 001365C9
+        MipBox8: 8x8@offset in pax file 00136650
+        MipBox9: 4x4@offset in pax file 00136677
+        End of paxfile @ 0013668C
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\maritime\maritime_grey_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.207843,0.192157,0.160784};
+        AVGCTAGG=FF353129;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 0017606D
+        MipBox2: 512x512@offset in pax file 001D66FE
+        MipBox3: 256x256@offset in pax file 001EEF15
+        MipBox4: 128x128@offset in pax file 001F5463
+        MipBox5: 64x64@offset in pax file 001F746A
+        MipBox6: 32x32@offset in pax file 001F7C71
+        MipBox7: 16x16@offset in pax file 001F7E78
+        MipBox8: 8x8@offset in pax file 001F7EFF
+        MipBox9: 4x4@offset in pax file 001F7F26
+        End of paxfile @ 001F7F3B
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\maritime\maritime_kry_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.196078,0.176471,0.137255};
+        AVGCTAGG=FF322D23;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 00187C78
+        MipBox2: 512x512@offset in pax file 001EC8DE
+        MipBox3: 256x256@offset in pax file 00206599
+        MipBox4: 128x128@offset in pax file 0020D18A
+        MipBox5: 64x64@offset in pax file 0020F191
+        MipBox6: 32x32@offset in pax file 0020F998
+        MipBox7: 16x16@offset in pax file 0020FB9F
+        MipBox8: 8x8@offset in pax file 0020FC26
+        MipBox9: 4x4@offset in pax file 0020FC4D
+        End of paxfile @ 0020FC62
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\maritime\maritime_tan_co.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.211765,0.192157,0.149020};
+        AVGCTAGG=FF363126;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=10;
+        MipBox0: 2048x2048@offset in pax file 00000070
+        MipBox1: 1024x1024@offset in pax file 0017C6FB
+        MipBox2: 512x512@offset in pax file 001DED8C
+        MipBox3: 256x256@offset in pax file 001F7EC7
+        MipBox4: 128x128@offset in pax file 001FE5DB
+        MipBox5: 64x64@offset in pax file 002005E2
+        MipBox6: 32x32@offset in pax file 00200DE9
+        MipBox7: 16x16@offset in pax file 00200FF0
+        MipBox8: 8x8@offset in pax file 00201077
+        MipBox9: 4x4@offset in pax file 0020109E
+        End of paxfile @ 002010B3
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\blood\b_pos.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.509804,0.290196,0.278431,0.227451};
+        AVGCTAGG=824A473A;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00004811
+        MipBox2: 64x64@offset in pax file 00008818
+        MipBox3: 32x32@offset in pax file 0000981F
+        MipBox4: 16x16@offset in pax file 00009C26
+        MipBox5: 8x8@offset in pax file 00009D2D
+        MipBox6: 4x4@offset in pax file 00009D74
+        End of paxfile @ 00009D91
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\patch\patch_bv_rhsf.paa
+        pax format=10 //DXT5 (paxfile=0xFF05);
+        ARGBColor[]= {0.654902,0.423529,0.337255,0.247059};
+        AVGCTAGG=A76C563F;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=true;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=7;
+        MipBox0: 256x256@offset in pax file 00000080
+        MipBox1: 128x128@offset in pax file 00006C9B
+        MipBox2: 64x64@offset in pax file 0000ACA2
+        MipBox3: 32x32@offset in pax file 0000BCA9
+        MipBox4: 16x16@offset in pax file 0000C0B0
+        MipBox5: 8x8@offset in pax file 0000C1B7
+        MipBox6: 4x4@offset in pax file 0000C1FE
+        End of paxfile @ 0000C21B
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\protech\prohelmet_smdi.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,1.000000,0.015686,0.882353};
+        AVGCTAGG=FFFF04E1;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=9; //Specular: (_sm, _smdi) amount of layer
+        MipMaps=9;
+        MipBox0: 2048x1024@offset in pax file 00000080
+        MipBox1: 1024x512@offset in pax file 00100087
+        MipBox2: 512x256@offset in pax file 0014008E
+        MipBox3: 256x128@offset in pax file 00150095
+        MipBox4: 128x64@offset in pax file 0015409C
+        MipBox5: 64x32@offset in pax file 001550A3
+        MipBox6: 32x16@offset in pax file 001554AA
+        MipBox7: 16x8@offset in pax file 001555B1
+        MipBox8: 8x4@offset in pax file 001555F8
+        End of paxfile @ 00155615
+    (C:\Users\Corey\Documents\GitHub\Praetorian-Security-Operations\@pso\addons\COS_casques\)data\fast_helmet\fast_helmet.nohq.paa
+        pax format=6 //DXT1 (paxfile=0xFF01);
+        ARGBColor[]= {1.000000,0.376471,0.364706,0.705882};
+        AVGCTAGG=FF605DB4;
+        MAXCTAGG=FFFFFFFF;
+        has_maxCtagg=true;
+        isAlpha=false;
+        isTransparent=false;
+        isAlphaNonOpaque=false;
+        isPaa=true;
+        pax_suffix=0; //Diffuse srgb: (_co,_ca, etc) diffuse color, SRGB color space
+        MipMaps=11;
+        MipBox0: 4096x4096@offset in pax file 00000070
+        MipBox1: 2048x2048@offset in pax file 00255A37
+        MipBox2: 1024x1024@offset in pax file 002FAE99
+        MipBox3: 512x512@offset in pax file 00325318
+        MipBox4: 256x256@offset in pax file 003307E8
+        MipBox5: 128x128@offset in pax file 00333C28
+        MipBox6: 64x64@offset in pax file 00335C2F
+        MipBox7: 32x32@offset in pax file 00336436
+        MipBox8: 16x16@offset in pax file 0033663D
+        MipBox9: 8x8@offset in pax file 003366C4
+        MipBox10: 4x4@offset in pax file 003366EB
+        End of paxfile @ 00336700
+
+Press the ANY key
