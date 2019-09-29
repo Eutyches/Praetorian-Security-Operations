@@ -193,11 +193,23 @@ class CfgUnitInsignia
 		displayName = "PSO Medic"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_medic.paa";
 	};	
+	class PSO_Medic_grey
+	{
+		author = "Corey"
+		displayName = "PSO Medic Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_medic_grey.paa";
+	};	
 	class PSO_Archer
 	{
 		author = "Corey"
 		displayName = "PSO Fireteam Archer"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_archer.paa";
+	};
+	class PSO_Archer_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Archer Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_archer_grey.paa";
 	};
 	class PSO_Bandit
 	{
@@ -205,11 +217,23 @@ class CfgUnitInsignia
 		displayName = "PSO Fireteam Bandit"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_bandit.paa";
 	};
+	class PSO_Bandit_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Bandit Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_bandit_grey.paa";
+	};
 	class PSO_Condor
 	{
 		author = "Corey"
 		displayName = "PSO Fireteam Condor"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_condor.paa";
+	};
+	class PSO_Condor_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Condor Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_condor_grey.paa";
 	};
 	class PSO_Dagger
 	{
@@ -217,11 +241,23 @@ class CfgUnitInsignia
 		displayName = "PSO Fireteam Dagger"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_dagger.paa";
 	};
+	class PSO_Dagger_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Dagger Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_dagger_grey.paa";
+	};
 	class PSO_Excalibur
 	{
 		author = "Corey"
 		displayName = "PSO Fireteam Excalibur"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_excalibur.paa";
+	};
+	class PSO_Excalibur_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Excalibur Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_excalibur_grey.paa";
 	};
 	class PSO_Flintlock
 	{
@@ -229,11 +265,23 @@ class CfgUnitInsignia
 		displayName = "PSO Fireteam Flintlock"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_flintlock.paa";
 	};
+	class PSO_Flintlock_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Flintlock Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_flintlock_grey.paa";
+	};
 	class PSO_Overlord
 	{
 		author = "Corey"
 		displayName = "PSO Fireteam Overlord"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_overlord.paa";
+	};
+	class PSO_Overlord_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Overlord Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_overlord_grey.paa";
 	};
 	class PSO_Praetorian
 	{
@@ -241,11 +289,23 @@ class CfgUnitInsignia
 		displayName = "PSO Fireteam Praetorian"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_praetorian.paa";
 	};
+	class PSO_Praetorian_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Praetorian Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_praetorian_grey.paa";
+	};
 	class PSO_Stiletto
 	{
 		author = "Corey"
 		displayName = "PSO Fireteam Stiletto"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_stiletto.paa";
+	};
+	class PSO_Stiletto_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Stiletto Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_stiletto_grey.paa";
 	};
 	class PSO_Twilight
 	{
@@ -253,11 +313,23 @@ class CfgUnitInsignia
 		displayName = "PSO Fireteam Twilight"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_twilight.paa";
 	};
+	class PSO_Twilight_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Twilight Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_twilight_grey.paa";
+	};
 	class PSO_Witchcraft
 	{
 		author = "Corey"
 		displayName = "PSO Fireteam Witchcraft"
 		texture = "\pso_milsimtools\paa\unitpatch_pso_witchcraft.paa";
+	};	
+	class PSO_Witchcraft_grey
+	{
+		author = "Corey"
+		displayName = "PSO Fireteam Witchcraft Grey"
+		texture = "\pso_milsimtools\paa\unitpatch_pso_witchcraft_grey.paa";
 	};	
 };
 
