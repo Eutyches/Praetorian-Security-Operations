@@ -154884,7 +154884,6 @@ class snackpack_h_opscore_01_m81_pso_stilleto: Itemcore
 			};
 		};
 	};
-CTRL + F (Find), Replace All "witchcraft" with relavent name, e.g. "archer." *
 class snackpack_h_opscore_01_khk_pso_witchcraft: Itemcore
 	{
 		author="Adacas (retexture by Snackbar)";
