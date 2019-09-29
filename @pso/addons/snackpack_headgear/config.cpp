@@ -13521,7 +13521,7 @@ class snackpack_h_cap_01_white_pso_black: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White (Black Logo)";
+		displayName="PSO Hat White (Black Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13569,7 +13569,7 @@ class snackpack_h_cap_01_white_pso_black: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White + Goggles (Black Logo)";
+		displayName="PSO Hat White + Goggles (Black Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13615,7 +13615,7 @@ class snackpack_h_cap_01_white_pso_black: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White (Black Logo)";
+		displayName="PSO Hat White (Black Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13661,7 +13661,7 @@ class snackpack_h_cap_01_white_pso_black: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White + Goggles (Black Logo)";
+		displayName="PSO Hat White + Goggles (Black Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13705,7 +13705,7 @@ class snackpack_h_cap_01_white_pso_black: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White (Black Logo)";
+		displayName="PSO Hat White (Black Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13749,7 +13749,7 @@ class snackpack_h_cap_01_white_pso_black: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White + Goggles (Black Logo)";
+		displayName="PSO Hat White + Goggles (Black Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13791,7 +13791,7 @@ class snackpack_h_cap_01_white_pso_color: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White (Color Logo)";
+		displayName="PSO Hat White (Color Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13839,7 +13839,7 @@ class snackpack_h_cap_01_white_pso_color: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White + Goggles (Color Logo)";
+		displayName="PSO Hat White + Goggles (Color Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13885,7 +13885,7 @@ class snackpack_h_cap_01_white_pso_color: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White (Color Logo)";
+		displayName="PSO Hat White (Color Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13931,7 +13931,7 @@ class snackpack_h_cap_01_white_pso_color: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White + Goggles (Color Logo)";
+		displayName="PSO Hat White + Goggles (Color Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -13975,7 +13975,7 @@ class snackpack_h_cap_01_white_pso_color: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White (Color Logo)";
+		displayName="PSO Hat White (Color Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
@@ -14019,7 +14019,7 @@ class snackpack_h_cap_01_white_pso_color: ItemCore
 		author="Adacas (retexture by Corey)";
 		scope=2;
 		weaponPoolAvailable=1;
-		displayName="PSO White + Goggles (Color Logo)";
+		displayName="PSO Hat White + Goggles (Color Logo)";
 		picture="\snackpack_headgear\ui\icon_h_cap_CB_ca.paa";
 		model="\snackpack_headgear\models\h_cap_base.p3d";
 		hiddenSelections[]=
