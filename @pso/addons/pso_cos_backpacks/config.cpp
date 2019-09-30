@@ -71,7 +71,7 @@ class CfgVehicles {
 		author = "Retexture by Corey";
 		displayName = ".KIT_BAG_pince_white";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"pso_cos_backpacks\\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
 	};
 	class KIT_BAG_pince_grey : KIT_BAG_pince_OD {
 		author = "Retexture by Corey";
