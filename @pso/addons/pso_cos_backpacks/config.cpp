@@ -12,10 +12,10 @@ class CfgPatches
 
 class CfgVehicles {
 	class backpack_2_TAN; //External class reference (cos_back_pack)
-/*	class KIT_BAG_Alpin_OD; //External class reference (cos_back_pack)
+	class KIT_BAG_Alpin_OD; //External class reference (cos_back_pack)
 	class KIT_BAG_pince_OD; //External class reference (cos_back_pack)
 	class KIT_BAG_R_OD; //External class reference (cos_back_pack)
-	class KIT_BAG_od; //External class reference (cos_back_pack) */
+	class KIT_BAG_od; //External class reference (cos_back_pack)
 	class SOG_BAG_tan; //External class reference (cos_back_pack)
 	class SOG_BAG_BREACHER_tan; //External class reference (cos_back_pack)
 	class SOG_BAG_recon_tan; //External class reference (cos_back_pack)
@@ -54,59 +54,57 @@ class CfgVehicles {
 		hiddenSelectionsTextures[] = {"\pso_cos_backpacks\paa\backpack_combat_mcarctic_co.paa"};
 	};
 //.KIT_BAG_Alpin
-/*
 	class KIT_BAG_Alpin_white : KIT_BAG_Alpin_OD {
 		author = "Retexture by Corey";
 		displayName = ".KIT_BAG_alpine_white";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
 	};
 	class KIT_BAG_Alpin_grey : KIT_BAG_Alpin_OD {
 		author = "Retexture by Corey";
 		displayName = ".KIT_BAG_alpine_grey";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
 	};
 //.KIT_BAG_pince
 	class KIT_BAG_pince_white : KIT_BAG_pince_OD {
 		author = "Retexture by Corey";
 		displayName = ".KIT_BAG_pince_white";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
 	};
 	class KIT_BAG_pince_grey : KIT_BAG_pince_OD {
 		author = "Retexture by Corey";
 		displayName = ".KIT_BAG_pince_grey";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
 	};
 //.KIT_BAG_R_
 	class KIT_BAG_R_white : KIT_BAG_R_OD {
 		author = "Retexture by Corey";
 		displayName = "RT-1523G Recon Kitbag PSO White";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
 	};
 	class KIT_BAG_R_grey : KIT_BAG_R_OD {
 		author = "Retexture by Corey";
 		displayName = "RT-1523G Recon Kitbag PSO Grey";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
 	};	
 //.KIT_BAG
 	class KIT_BAG_white : KIT_BAG_od {
 		author = "Retexture by Corey";
 		displayName = ".KIT_BAG_pince_white";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_white.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_white.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_white.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_white.co.paa"};
 	};
 	class KIT_BAG_grey : KIT_BAG_od {
 		author = "Retexture by Corey";
 		displayName = ".KIT_BAG_pince_grey";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
-		hiddenSelectionsTextures[] = {"cos_back_pack\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_grey.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_grey.co.paa"};
 	};
-*/
 //SOG_BAG
 	class SOG_BAG_white : SOG_BAG_tan {
 		author = "Retexture by Corey";
