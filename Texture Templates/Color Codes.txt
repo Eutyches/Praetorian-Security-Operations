@@ -1,0 +1,3 @@
+COLOR CODES
+5a4b35 = Coyote Brown PSO (for C.O.S. Backpack and Vest Retextures)
+6b5942 + lightness 0.05 = REVISED Coyote Brown PSO
