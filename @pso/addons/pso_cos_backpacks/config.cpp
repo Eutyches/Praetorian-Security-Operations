@@ -149,6 +149,11 @@ class CfgVehicles {
 		displayName = ".KIT_BAG_coyote brown";
 		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_cb.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_cb.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_cb.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_cb.co.paa"};
 	};
+//	class KIT_BAG_LABEL : KIT_BAG_TAN {
+		author = "Retexture by Corey";
+		displayName = ".KIT_BAG_LABEL";
+		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_LABEL.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_LABEL.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_LABEL.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_LABEL.co.paa"};
+	};
 //SOG_BAG
 	class SOG_BAG_white : SOG_BAG_tan {
 		author = "Retexture by Corey";
