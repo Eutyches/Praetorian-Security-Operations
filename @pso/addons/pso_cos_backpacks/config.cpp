@@ -149,11 +149,11 @@ class CfgVehicles {
 		displayName = "PSO Kitbag Standard Coyote Brown";
 		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_cb.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_cb.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_cb.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_cb.co.paa"};
 	};
-//	class KIT_BAG_LABEL : KIT_BAG_TAN {
+/*	class KIT_BAG_LABEL : KIT_BAG_TAN {
 		author = "Vulkan/modifiedbySakuraba/retexturedbyCorey";
 		displayName = ".KIT_BAG_LABEL";
 		hiddenSelectionsTextures[] = {"pso_cos_backpacks\paa\kit_bag\saccorps_LABEL.co.paa", "pso_cos_backpacks\paa\kit_bag\pochelateral_LABEL.co.paa", "pso_cos_backpacks\paa\kit_bag\assets_strap_LABEL.co.paa", "pso_cos_backpacks\paa\kit_bag\KIT_strap_LABEL.co.paa"};
-	};
+	}; */
 //SOG_BAG 
 	class SOG_BAG_white : SOG_BAG_tan {
 		author = "Vulkan/modifiedbySakuraba/retexturedbyCorey";

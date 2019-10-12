@@ -1,6 +1,6 @@
 Changelog since 9/29/19
-- Unlocked (made public) **tan** 6094 and JPC vest variants that we inherited in C.O.S. but that had been hidden previously
 - Added C.O.S. `kit bag` colors for all kit bag combinations: White, Grey, Grey Dark, & Coyote Brown. Added PSO helmet patch to all C.O.S. kit bags.
 - Added C.O.S. `.personel` backpack colors: Grey Dark & Coyote Brown. Corrected some colors from previous update. Added PSO text patch to all `.personel` bags.
 - Added C.O.S. `SOG Bag` colors for all SOG bag combinations: Grey Dark & Coyote Brown.
-- 
+- Replaced display names for all backpacks that show PSO patches
+- Removed superfluous files (cleanup) (~100mb)
