@@ -1,5 +1,5 @@
 Changelog since 9/29/19
-- Updated PSO Milsim Tools to match the latest version of MRHMilsimTools (see changelogs for 0.17.7 & 0.17.8: https://github.com/MisterHLunaticwraith/MRHMilsimTools/blob/master/.github/changelog.md) 
+- Updated PSO Milsim Tools to match the latest version of MRHMilsimTools (see changelogs for 1.17.7 & 1.17.8: https://github.com/MisterHLunaticwraith/MRHMilsimTools/blob/master/.github/changelog.md) 
 - Added new color variants for all C.O.S. `kit bag` combinations: White, Grey, Grey Dark, & Coyote Brown. Added PSO helmet patch to all C.O.S. kit bags.
 - Added new color variants of the C.O.S. `.personel` backpack: Grey Dark & Coyote Brown. Corrected some colors from previous update. Added PSO text patch to all `.personel` bags.
 - Added new color variants for all C.O.S. `SOG Bag` combinations: Grey Dark & Coyote Brown.
