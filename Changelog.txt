@@ -1,6 +1,7 @@
 Changelog since 9/29/19
-- Added C.O.S. `kit bag` colors for all kit bag combinations: White, Grey, Grey Dark, & Coyote Brown. Added PSO helmet patch to all C.O.S. kit bags.
-- Added C.O.S. `.personel` backpack colors: Grey Dark & Coyote Brown. Corrected some colors from previous update. Added PSO text patch to all `.personel` bags.
-- Added C.O.S. `SOG Bag` colors for all SOG bag combinations: Grey Dark & Coyote Brown.
+- Added new color variants for all C.O.S. `kit bag` combinations: White, Grey, Grey Dark, & Coyote Brown. Added PSO helmet patch to all C.O.S. kit bags.
+- Added new color variants of the C.O.S. `.personel` backpack: Grey Dark & Coyote Brown. Corrected some colors from previous update. Added PSO text patch to all `.personel` bags.
+- Added new color variants for all C.O.S. `SOG Bag` combinations: Grey Dark & Coyote Brown.
+- Added new color variants for all Military Gear Pack vest combinations that were part of the former Snackpack: White, Grey, Grey Dark, & Black. Used greyscale PSO text patch.
 - Replaced display names for all backpacks that show PSO patches
 - Removed superfluous files (cleanup) (~100mb)
