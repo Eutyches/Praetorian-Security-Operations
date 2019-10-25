@@ -1,0 +1,2 @@
+COLOR CODES
+Coyote Brown = 6b5942 with Red -5 (Colors --> Color Balance) & Saturation 0.9 (Colors --> Saturation)

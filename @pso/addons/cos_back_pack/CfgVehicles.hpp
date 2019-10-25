@@ -307,7 +307,7 @@ class CfgVehicles {
 	};
 	
 	class backpack_2_OD : B_AssaultPack_mcamo {
-		author = "";
+		author = "tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -320,7 +320,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "backpack_2_OD";
-		displayName = ".backpack_personel_OD";
+		displayName = "PSO Personal Olive Drab";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\backpack_2";
 		hiddenSelections[] = {};
@@ -331,7 +331,7 @@ class CfgVehicles {
 	};
 	
 	class backpack_2_TAN : B_AssaultPack_mcamo {
-		author = "";
+		author = "tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -344,7 +344,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "backpack_2_TAN";
-		displayName = ".backpack_personel_TAN";
+		displayName = "PSO Personal Tan";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\backpack_2";
 		hiddenSelections[] = {"camo"};
@@ -355,7 +355,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_Alpin_OD : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -368,7 +368,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_Alpin_OD";
-		displayName = ".KIT_BAG_Alpin_OD";
+		displayName = "PSO Kitbag Alpine Olive Drab";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_Alpin";
 		hiddenSelections[] = {};
@@ -379,7 +379,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_Alpin_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -392,7 +392,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_Alpin_blk";
-		displayName = ".KIT_BAG_Alpin_blk";
+		displayName = "PSO Kitbag Alpine Black";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_Alpin";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -403,7 +403,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_Alpin_mc : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -416,7 +416,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_Alpin_mc";
-		displayName = ".KIT_BAG_Alpin_mc";
+		displayName = "PSO Kitbag Alpine Multicam";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_Alpin";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -427,7 +427,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_Alpin_TAN : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -440,7 +440,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_Alpin_TAN";
-		displayName = ".KIT_BAG_Alpin_TAN";
+		displayName = "PSO Kitbag Alpine Tan";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_Alpin";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -451,7 +451,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_pince_OD : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -464,7 +464,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_pince_OD";
-		displayName = ".KIT_BAG_pince_OD";
+		displayName = "PSO Kitbag Pliers Olive Drab";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_PINCE";
 		hiddenSelections[] = {};
@@ -475,7 +475,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_pince_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -488,7 +488,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_pince_blk";
-		displayName = ".KIT_BAG_pince_blk";
+		displayName = "PSO Kitbag Pliers Black";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_PINCE";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -499,7 +499,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_pince_mc : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -512,7 +512,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_pince_mc";
-		displayName = ".KIT_BAG_pince_mc";
+		displayName = "PSO Kitbag Pliers Multicam";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_PINCE";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -523,7 +523,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_pince_TAN : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -536,7 +536,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_pince_TAN";
-		displayName = ".KIT_BAG_pince_TAN";
+		displayName = "PSO Kitbag Pliers Tan";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_PINCE";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -560,7 +560,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = KIT_BAG_R_OD;
-		displayName = "RT-1523G Recon Kitbag PSO OD";
+		displayName = "RT-1523G PSO Kitbag Olive Drab";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_R";
 		hiddenSelections[] = {};
@@ -589,7 +589,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_R_blk";
-		displayName = "RT-1523G Recon Kitbag PSO Black";
+		displayName = "RT-1523G PSO Kitbag Black";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_R";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -617,7 +617,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = KIT_BAG_R_MC;
-		displayName = "RT-1523G Recon Kitbag Multicam PSO";
+		displayName = "RT-1523G PSO Kitbag Multicam";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_R";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -645,7 +645,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = KIT_BAG_R_TAN;
-		displayName = "RT-1523G Recon Kitbag PSO Tan";
+		displayName = "RT-1523G PSO Kitbag Tan";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG_R";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -660,7 +660,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_od : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -673,7 +673,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_od";
-		displayName = ".Kit_Bag_Od";
+		displayName = "PSO Kitbag Standard Olive Drab";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG";
 		hiddenSelections[] = {};
@@ -684,7 +684,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -697,7 +697,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "KIT_BAG_blk";
-		displayName = ".Kit_Bag_blk";
+		displayName = "PSO Kitbag Standard Black";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -708,7 +708,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_MC : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -721,7 +721,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = KIT_BAG_MC;
-		displayName = ".Kit_Bag_MC";
+		displayName = "PSO Kitbag Standard Multicam";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -732,7 +732,7 @@ class CfgVehicles {
 	};
 	
 	class KIT_BAG_TAN : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -745,7 +745,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = KIT_BAG_TAN;
-		displayName = ".Kit_Bag_TAN";
+		displayName = "PSO Kitbag Standard Tan";
 		picture = "COS_back_pack\data\icon\Sac_assausl_od.paa";
 		model = "\COS_back_pack\KIT_BAG";
 		hiddenSelections[] = {"camo", "camo1", "camo3", "camo6"};
@@ -754,9 +754,9 @@ class CfgVehicles {
 		maximumLoad = 160;
 		mass = 40;
 	};
-	
+//resume renaming HERE /// CONTINUE HERE ///	***
 	class SOG_BAG_OD : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -769,7 +769,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = SOG_BAG_OD;
-		displayName = ".SF_Backpack_od";
+		displayName = "PSO SFF Standard Olive Drab";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -780,7 +780,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_tan : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -793,7 +793,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_tan";
-		displayName = ".SF_Backpack_tan";
+		displayName = "PSO SFF Standard Tan";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -804,7 +804,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -817,7 +817,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_blk";
-		displayName = ".SF_Backpack_blk";
+		displayName = "PSO SFF Standard Black";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -828,7 +828,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_MC : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -841,7 +841,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = SOG_BAG_MC;
-		displayName = ".SF_Backpack_MC";
+		displayName = "PSO SFF Standard Multicam";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -852,7 +852,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_BREACHER_od : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -865,7 +865,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_BREACHER_od";
-		displayName = ".SF_Backpack_Breacher_od";
+		displayName = "PSO SFF Breacher Olive Drab";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_BREACHER";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -876,7 +876,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_BREACHER_tan : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -889,7 +889,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_BREACHER_tan";
-		displayName = ".SF_Backpack_Breacher_tan";
+		displayName = "PSO SFF Breacher Tan";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_BREACHER";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -900,7 +900,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_BREACHER_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -913,7 +913,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_BREACHER_blk";
-		displayName = ".SF_Backpack_Breacher_blk";
+		displayName = "PSO SFF Breacher Black";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_BREACHER";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -924,7 +924,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_BREACHER_MC : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -937,7 +937,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = SOG_BAG_BREACHER_MC;
-		displayName = ".SF_Backpack_Breacher_MC";
+		displayName = "PSO SFF Breacher Multicam";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_BREACHER";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -948,7 +948,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_recon_od : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba/modifiedbyCorey";
+		author = "Vulkan/modifiedbySakuraba/modifiedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -961,7 +961,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_recon_od";
-		displayName = "RT-1523G Recon SFF PSO OD";
+		displayName = "RT-1523G PSO SFF Olive Drab";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_recon";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -977,7 +977,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_recon_tan : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba/modifiedbyCorey";
+		author = "Vulkan/modifiedbySakuraba/modifiedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -990,7 +990,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_recon_tan";
-		displayName = "RT-1523G Recon SFF PSO Tan";
+		displayName = "RT-1523G PSO SFF Tan";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_recon";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1006,7 +1006,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_recon_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba/modifiedbyCorey";
+		author = "Vulkan/modifiedbySakuraba/modifiedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1019,7 +1019,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_recon_blk";
-		displayName = "RT-1523G Recon SFF PSO Black";
+		displayName = "RT-1523G PSO SFF Black";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_recon";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1035,7 +1035,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_recon_MC : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba/modifiedbyCorey";
+		author = "Vulkan/modifiedbySakuraba/modifiedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1048,7 +1048,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_recon_MC";
-		displayName = "RT-1523G Recon SFF PSO Multicam";
+		displayName = "RT-1523G PSO SFF Multicam";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_recon";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1064,7 +1064,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_med_od : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1077,7 +1077,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_med_od";
-		displayName = ".SF_Backpack_med_od";
+		displayName = "PSO SFF Medic Olive Drab";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_med";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1088,7 +1088,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_med_tan : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1101,7 +1101,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_med_tan";
-		displayName = ".SF_Backpack_med_tan";
+		displayName = "PSO SFF Medic Tan";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_med";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1112,7 +1112,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_med_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1125,7 +1125,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_med_blk";
-		displayName = ".SF_Backpack_med_blk";
+		displayName = "PSO SFF Medic Black";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_med";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1136,7 +1136,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_med_MC : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1149,7 +1149,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_med_MC";
-		displayName = ".SF_Backpack_med_MC";
+		displayName = "PSO SFF Medic Multicam";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_med";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1160,7 +1160,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_ALPIN_od : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1173,7 +1173,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_ALPIN_od";
-		displayName = ".SF_Backpack_bush_od";
+		displayName = "PSO SFF Alpine Olive Drab";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_ALPIN";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1184,7 +1184,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_ALPIN_tan : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1197,7 +1197,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_ALPIN_tan";
-		displayName = ".SF_Backpack_bush_tan";
+		displayName = "PSO SFF Alpine Tan";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_ALPIN";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1208,7 +1208,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_ALPIN_blk : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1221,7 +1221,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = "SOG_BAG_ALPIN_blk";
-		displayName = ".SF_Backpack_bush_blk";
+		displayName = "PSO SFF Alpine Black";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_ALPIN";
 		hiddenSelections[] = {"camo", "camo3"};
@@ -1232,7 +1232,7 @@ class CfgVehicles {
 	};
 	
 	class SOG_BAG_ALPIN_MC : B_AssaultPack_mcamo {
-		author = "VulKaN/modifiedbySakuraba";
+		author = "Vulkan/modifiedbySakuraba/tweakedbyCorey";
 		scope = public;
 		scopeCurator = 2;
 		scopeArsenal = 2;
@@ -1245,7 +1245,7 @@ class CfgVehicles {
 		vehicleClass = "Backpacks";
 		allowedSlots[] = {901};
 		_generalMacro = SOG_BAG_ALPIN_MC;
-		displayName = ".SF_Backpack_bush_MC";
+		displayName = "PSO SFF Alpine Multicam";
 		picture = "COS_back_pack\data\icon\sac_fs.paa";
 		model = "\COS_back_pack\SOG_BAG_ALPIN";
 		hiddenSelections[] = {"camo", "camo3"};
