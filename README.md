@@ -23,6 +23,8 @@ Assets include:
 
 - The most recent version of [ACEX](https://github.com/acemod/ACEX) with the "sitting" addon pulled from v.3.1.1, which is the last version to be fully compatible with Enhanced Movement. Part of the [ACE3 Mod project](https://github.com/acemod) -- Fully open source, duplicable. Licensed under the GNU General Public License v2.0. 
 
+- Custom retextures of RHSUSAF vehicles and equipment and the RKSL Studios: Foxhound LPPV. As a result, those two mods are linked as dependencies with this mod, both internally and in the Steam Workshop.
+
 - Many PSO-specific textures and tweaks.
 
 If you are uncertain as to the licensing of a specific part of this mod, ask for clarification.
@@ -37,6 +39,6 @@ Dependencies:
 
 - Task Force Arrowhead Radio 1.0 (Beta)
 
-- 3CB BAF Vehicles
-
 - RHSUSAF
+
+- RKSL Studios: Foxhound LPPV
