@@ -1,11 +1,11 @@
     class CfgPatches
 {
-    class clothing1_atx
+    class CRYEGEN3_MOHW_Uniform
     {
-        version = "1";
+        version = "0.1";
         units[] = {};
         weapons[] = {};
-        requiredVersion = "1";
+        requiredVersion = "0.1";
         requiredAddons[] = {};
     };
 };
@@ -16,11 +16,11 @@ class CfgVehicles
         class clothing1_atx: B_Soldier_base_F
     {
         scope = 2;
-        author = "Retextured by Shifumii";
-        dlc = "A-TACS";
+        author = "Retextured by Shifumii[PSO]";
+        dlc = "";
         model = "\a3\characters_F\BLUFOR\b_soldier_01.p3d";
         hiddenSelections[] = {"camo","insignia"};
-        hiddenSelectionsTextures[] = {"\A-TACS AT-X\Data\clothing1_atx.paa"};
+        hiddenSelectionsTextures[] = {"\pso_uniforms\paa\clothing1_atx.paa"};
 
 };
 };
@@ -33,10 +33,10 @@ class cfgWeapons
     class clothing1_atx: Uniform_Base
     {
         scope = 2;
-        author = "Retextured by Shifumii";
-        dlc = "A-TACS";
-        displayName = "COmbat Fatigues (AT-X)";
-        picture = "\A-TACS AT-X\UI\atx_UI.paa";
+        author = "Retextured by Shifumii[PSO]";
+        dlc = "";
+        displayName = "Combat Fatigues (AT-X)";
+        picture = "\pso_uniforms\paa\atx_UI.paa";
         model = "\a3\characters_F\BLUFOR\b_soldier_01.p3d";
         class ItemInfo: UniformItem
         {
