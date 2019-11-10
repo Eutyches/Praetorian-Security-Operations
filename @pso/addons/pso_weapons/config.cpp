@@ -1,4 +1,4 @@
-//Config adapted from the configs of LM Handguns & FlankenLabs. All texturing done from scratch by Corey.
+//Config adapted from the configs of LM Handguns & FlankenLabs. All texturing done from scratch by Corey. White retexture by Shifumii[PSO]
 
 class CfgPatches {
 	class pso_weapons {
@@ -40,6 +40,14 @@ class CfgWeapons {
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_scratched.paa"};
 		baseweapon = pso_p07_scratched;
+	};
+	
+	class pso_p07_white : hgun_P07_F {
+		author = "Retextured by Shifumii[PSO]";
+		displayname = "P07 9mm PSO White";
+		hiddenSelections[] = {"Camo"};
+		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_white.paa"};
+		baseweapon = pso_p07_white;
 	};
 
 	class rhs_weap_m249_pip_S;
