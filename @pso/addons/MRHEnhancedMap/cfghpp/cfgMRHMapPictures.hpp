@@ -165,6 +165,10 @@ class MRHMapPictures
 	{
 		picturePath = PAAPATH(pja314.paa);
 	};
+	class Panthera3
+	{	
+		picturePath = PAAPATH(Panthera3.paa);
+	};	
 	class Winthera3
 	{	
 		picturePath = PAAPATH(Winthera3.paa);
@@ -211,5 +215,6 @@ x"sara_dbe1" --> united sahrani
 x"utes"
 x"zargabad"
 x"pja314"
+x"Panthera3"
 "Winthera3"
 */
