@@ -129,7 +129,7 @@ class CfgVehicles
 		displayName = "PSO Humvee Open 8 Seater Tan";
 		DLC = "";
 		hiddenSelections[] = {"exterior","interior","A2","wheels","mainbody","hood gratting","interior_wood","2drcargocomplete","camo1","unitdecals_1","unitdecals_2"};
-		hiddenSelectionsTextures[] = {"pso_rhs_humvee\paa\a_exterior_tan.paa","pso_rhs_humvee\paa\b_interior_tan.paa","pso_rhs_humvee\paa\c_a2_tan.paa","pso_rhs_humvee\paa\d_wheels_tan.paa","pso_rhs_humvee\paa\e_mainbody_tan.paa","pso_rhs_humvee\paa\f_gratting_tan.paa","pso_rhs_humvee\paa\l_interior_wood_tan.paa","pso_rhs_humvee\paa\k_2drcargocomplete_tan.paa","pso_rhs_humvee\paa\i_unitdecals1_test.paa","pso_rhs_humvee\paa\j_unitdecals2_test.paa"};
+		hiddenSelectionsTextures[] = {"pso_rhs_humvee\paa\a_exterior_tan.paa","pso_rhs_humvee\paa\b_interior_black.paa","pso_rhs_humvee\paa\c_a2_tan.paa","pso_rhs_humvee\paa\d_wheels_tan.paa","pso_rhs_humvee\paa\e_mainbody_tan.paa","pso_rhs_humvee\paa\f_gratting_tan.paa","pso_rhs_humvee\paa\l_interior_wood_tan.paa","pso_rhs_humvee\paa\k_2drcargocomplete_tan.paa","pso_rhs_humvee\paa\i_unitdecals1_test.paa","pso_rhs_humvee\paa\j_unitdecals2_test.paa"};
 	};
 	
 	class rhsusf_m1025_pso_black: rhsusf_m1025_d
@@ -177,7 +177,7 @@ class CfgVehicles
 		displayName = "PSO Humvee Closed 4 Seater Tan";
 		DLC = "";
 		hiddenSelections[] = {"exterior","interior","A2","wheels","mainbody","hood gratting","camo1","camo2","unitdecals_1","unitdecals_2"};
-		hiddenSelectionsTextures[] = {"pso_rhs_humvee\paa\a_exterior_tan.paa","pso_rhs_humvee\paa\b_interior_tan.paa","pso_rhs_humvee\paa\c_a2_tan.paa","pso_rhs_humvee\paa\d_wheels_tan.paa","pso_rhs_humvee\paa\e_mainbody_tan.paa","pso_rhs_humvee\paa\f_gratting_tan.paa","pso_rhs_humvee\paa\g_camo1_tile_tan.paa","pso_rhs_humvee\paa\h_camo2_m1025_tan.paa","pso_rhs_humvee\paa\i_unitdecals1_test.paa","pso_rhs_humvee\paa\j_unitdecals2_test.paa"};
+		hiddenSelectionsTextures[] = {"pso_rhs_humvee\paa\a_exterior_tan.paa","pso_rhs_humvee\paa\b_interior_black.paa","pso_rhs_humvee\paa\c_a2_tan.paa","pso_rhs_humvee\paa\d_wheels_tan.paa","pso_rhs_humvee\paa\e_mainbody_tan.paa","pso_rhs_humvee\paa\f_gratting_tan.paa","pso_rhs_humvee\paa\g_camo1_tile_tan.paa","pso_rhs_humvee\paa\h_camo2_m1025_tan.paa","pso_rhs_humvee\paa\i_unitdecals1_test.paa","pso_rhs_humvee\paa\j_unitdecals2_test.paa"};
 	};
 	
 };
