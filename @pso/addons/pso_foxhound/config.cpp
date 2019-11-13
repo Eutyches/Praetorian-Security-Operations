@@ -20,7 +20,7 @@ class CfgVehicles
 		scopeArsenal = 2;
 		scopeCurator = 2;
 		author = "Retextured by Corey";
-		displayName = "Foxhound LPPV PSO Black";
+		displayName = "PSO Foxhound LPPV Black";
 		DLC = "";
 		hiddenSelections[] = {"main_texture"};
 		hiddenSelectionsTextures[] = {"pso_foxhound\paa\foxhound_exterior_pso_black_co.paa"};
@@ -32,7 +32,7 @@ class CfgVehicles
 		scopeArsenal = 2;
 		scopeCurator = 2;
 		author = "Retextured by Corey";
-		displayName = "Foxhound LPPV PSO Olive Drab";
+		displayName = "PSO Foxhound LPPV Olive Drab";
 		DLC = "";
 		hiddenSelections[] = {"main_texture"};
 		hiddenSelectionsTextures[] = {"pso_foxhound\paa\foxhound_exterior_pso_olive_co.paa"};
@@ -44,7 +44,7 @@ class CfgVehicles
 		scopeArsenal = 2;
 		scopeCurator = 2;
 		author = "Retextured by Corey";
-		displayName = "Foxhound LPPV PSO Tan";
+		displayName = "PSO Foxhound LPPV Tan";
 		DLC = "";
 		hiddenSelections[] = {"main_texture"};
 		hiddenSelectionsTextures[] = {"pso_foxhound\paa\foxhound_exterior_pso_tan_co.paa"};
@@ -56,7 +56,7 @@ class CfgVehicles
 		scopeArsenal = 2;
 		scopeCurator = 2;
 		author = "Retextured by Corey";
-		displayName = "Foxhound LPPV PSO White";
+		displayName = "PSO Foxhound LPPV White";
 		DLC = "";
 		hiddenSelections[] = {"main_texture"};
 		hiddenSelectionsTextures[] = {"pso_foxhound\paa\foxhound_exterior_pso_white_co.paa"};
