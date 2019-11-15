@@ -1,3 +1,10 @@
+Changelog since 10/24/19
+- Updated PSO Milsim Tools to match the latest version of MRHMilsimTools (see changelogs for 1.17.9 & 1.18.0: https://github.com/MisterHLunaticwraith/MRHMilsimTools/blob/DevBranch/.github/changelog.md)
+- Added custom PSO RKSL Foxhound retextures w/PSO decals: Black (exterior recolored), White (exterior recolored), Olive Drab, & Tan
+- Added custom PSO RHSUSAF Humvees w/PSO decals: Black (all parts recolored), White (all parts recolored), Olive Drab, & Tan in 8 seat (open or optional soft top) & 4 seat (hard top) variants
+- Added miscellaneous Fenrir assets: PSO Enhanced Maps for Island Panthera & Island Panthera (Winter), MRAWS in Grey, NATO uniform in AT-X w/grey PSO patch, & P-07 in white
+- Updated dependencies
+
 Changelog since 9/29/19
 - Updated PSO Milsim Tools to match the latest version of MRHMilsimTools (see changelogs for 1.17.7 & 1.17.8: https://github.com/MisterHLunaticwraith/MRHMilsimTools/blob/master/.github/changelog.md) 
 - Added new color variants for all C.O.S. `kit bag` combinations: White, Grey, Grey Dark, & Coyote Brown. Added PSO helmet patch to all C.O.S. kit bags.

@@ -32,6 +32,10 @@ _script	Script to execute when setting is changed.  (optional) <CODE>
 //setting to apply medic patch on ace3 medics 
 ["MRH_MilsimTools_Core_ApplyMedicPatch", "CHECKBOX",   [localize "STR_MRH_CBA_ApplyMedicPatchSetting",localize "STR_MRH_CBA_ApplyMedicPatchSettingToolTip"], "MRH_MilsimTools - Core settings",true,1] call cba_settings_fnc_init;
 ["MRH_MilsimTools_hideAceMyLoadOuts", "CHECKBOX",   [localize "STR_MRH_CBA_DISABLEACELOADOUTS",localize "STR_MRH_CBA_DISABLEACELOADOUTSToolTip"],"MRH_MilsimTools - Core settings",false,1] call cba_settings_fnc_init;
+
+["MRH_MilsimTools_LD_ShowLoadOutInBrief", "CHECKBOX",   [localize "STR_MRH_CBA_LD_showLoadoutinBriefing",localize "STR_MRH_CBA_LD_showLoadoutinBriefingToolTip"], "MRH_MilsimTools - Core settings",true,1] call cba_settings_fnc_init;
+
+["MRH_MilsimTools_LD_loadoutDisplaySize", "SLIDER",   [localize "STR_MRH_CBA_LDSizeOfPic",localize "STR_MRH_CBA_LDSizeOfPicToolTip"],"MRH_MilsimTools - Core settings",[40,180,100,0],1] call cba_settings_fnc_init; 
 //===Below are settings for the jip menu
 //allow jip menu on startup
 ["MRH_MilsimTools_Jip_MenuAllow", "CHECKBOX",   [localize "STR_MRH_MS_CBA_JIP_ALLOWPRETTY",localize "STR_MRH_MS_CBA_JIP_ALLOWTOOLTIP"], "MRH_MilsimTools - JIP settings",true,1] call cba_settings_fnc_init;
@@ -62,6 +66,10 @@ _script	Script to execute when setting is changed.  (optional) <CODE>
 //=======Below are settings for the tablet
 //Settings to allow map on the tablet
 ["MRH_MilsimTools_AllowMapTablet", "CHECKBOX",   [localize "STR_MRH_CBA_TABLET_ALLOWMAPPRETTY",localize "STR_MRH_CBA_TABLET_ALLOWMAPTOOLTIP"], "MRH_MilsimTools - Tablet settings",true,1] call cba_settings_fnc_init;
+
+["MRH_MilsimTools_ST_BriefingRemote_overlay", "EDITBOX", [localize "STR_MRH_CBA_briefScreenSpecOverlay",localize "STR_MRH_CBA_briefScreenSpecOverlayToolTip"], "MRH_MilsimTools - Tablet settings","\MRHMilsimTools\Paa\cnn_news_ca.paa",1] call cba_settings_fnc_init;
+["MRH_MilsimTools_ST_BriefingRemote_videosToPlay", "EDITBOX", [localize "STR_MRH_CBA_briefSCreenPathToVideos",localize "STR_MRH_CBA_briefSCreenPathToVideosToolTip"], "MRH_MilsimTools - Tablet settings","\a3\missions_f_bootcamp\video\vr_generictransition_1.ogv,\a3\missions_f_epa\video\a_in_intro.ogv",1] call cba_settings_fnc_init;
+
 //=======Below are settings for the hackingtool
 //Settings to allow map on the tablet
 ["MRH_MilsimTools_RequireHackingTool", "CHECKBOX",   [localize "STR_MRH_RequireHackingToolPretty",localize "STR_MRH_RequireHackingToolTip"], "MRH_MilsimTools - Hacking settings",true,1] call cba_settings_fnc_init;
