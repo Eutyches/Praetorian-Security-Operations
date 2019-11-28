@@ -15,28 +15,28 @@ class CfgWeapons {
 	class hgun_P07_F;
 	
 	class pso_p07_m81 : hgun_P07_F {
-		displayname = "P07 9mm PSO M81";
+		displayname = "P99 9mm PSO M81";
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_m81.paa"};
 		baseweapon = pso_p07_m81;
 	};
 	
 	class pso_p07_multicam : hgun_P07_F {
-		displayname = "P07 9mm PSO Multicam";
+		displayname = "P99 9mm PSO Multicam";
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_multicam.paa"};
 		baseweapon = pso_p07_multicam;
 	};
 	
 	class pso_p07_grey : hgun_P07_F {
-		displayname = "P07 9mm PSO Grey";
+		displayname = "P99 9mm PSO Grey";
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_grey.paa"};
 		baseweapon = pso_p07_grey;
 	};
 	
 	class pso_p07_scratched : hgun_P07_F {
-		displayname = "P07 9mm PSO Scratched";
+		displayname = "P99 9mm PSO Scratched";
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_scratched.paa"};
 		baseweapon = pso_p07_scratched;
@@ -44,7 +44,7 @@ class CfgWeapons {
 	
 	class pso_p07_white : hgun_P07_F {
 		author = "Retextured by Shifumii[PSO]";
-		displayname = "P07 9mm PSO White";
+		displayname = "P99 9mm PSO White";
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_white.paa"};
 		baseweapon = pso_p07_white;
