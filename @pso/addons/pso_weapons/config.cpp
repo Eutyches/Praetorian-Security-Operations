@@ -1,4 +1,4 @@
-//Config adapted from the configs of LM Handguns & FlankenLabs. All texturing done from scratch by Corey. White retexture by Shifumii[PSO]
+//Config adapted from the configs of LM Handguns & FlankenLabs. All texturing done from scratch by Corey. White P07 retexture by Shifumii.
 
 class CfgPatches {
 	class pso_weapons {
@@ -43,7 +43,7 @@ class CfgWeapons {
 	};
 	
 	class pso_p07_white : hgun_P07_F {
-		author = "Retextured by Shifumii[PSO]";
+		author = "Retextured by Shifumii";
 		displayname = "P99 9mm PSO White";
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\pso_weapons\data\p07\p07_white.paa"};
@@ -51,10 +51,10 @@ class CfgWeapons {
 	};
 
 	class rhs_weap_m249_pip_S;
-	class RHS_M249_Snackbar: rhs_weap_m249_pip_S
+	class RHS_M249_Praetorian: rhs_weap_m249_pip_S
 	{
 		author = "Corey";
-		displayName = "M249 Snackbar Edition";
+		displayName = "M249 Praetorian Edition";
 		picture = "\rhsusf\addons\rhsusf_inventoryicons\data\weapons\rhs_weap_m249_ca.paa";
 		hiddenSelectionsTextures[]=
 		{
@@ -64,12 +64,12 @@ class CfgWeapons {
 			"pso_weapons\data\m249_camo\ammobox_merged_co.paa",
 			"pso_weapons\data\m249_camo\Stock_co.paa"
 		};
-		baseWeapon="RHS_M249_Snackbar"
-		rhs_grip1_change="RHS_M249_Snackbar_vfg1";
-		rhs_grip2_change="RHS_M249_Snackbar_vfg2";
-		rhs_grip3_change="RHS_M249_Snackbar_vfg3";
+		baseWeapon="RHS_M249_Praetorian"
+		rhs_grip1_change="RHS_M249_Praetorian_vfg1";
+		rhs_grip2_change="RHS_M249_Praetorian_vfg2";
+		rhs_grip3_change="RHS_M249_Praetorian_vfg3";
 	};
-	class RHS_M249_Snackbar_vfg1: RHS_M249_Snackbar
+	class RHS_M249_Praetorian_vfg1: RHS_M249_Praetorian
 	{
 		author="Corey";
 		handanim[]=
@@ -78,7 +78,7 @@ class CfgWeapons {
 			"\rhsusf\addons\rhsusf_c_weapons\anims\rhs_hand_m249_grippod.rtm"
 		};
 	};
-	class RHS_M249_Snackbar_vfg2: RHS_M249_Snackbar
+	class RHS_M249_Praetorian_vfg2: RHS_M249_Praetorian
 	{
 		author="Corey";
 		handanim[]=
@@ -87,7 +87,7 @@ class CfgWeapons {
 			"\rhsusf\addons\rhsusf_c_weapons\anims\rhs_hand_m249_VFG.rtm"
 		};
 	};
-	class RHS_M249_Snackbar_vfg3: RHS_M249_Snackbar
+	class RHS_M249_Praetorian_vfg3: RHS_M249_Praetorian
 	{
 		author="Corey";
 		handanim[]=
@@ -96,10 +96,10 @@ class CfgWeapons {
 			"\rhsusf\addons\rhsusf_c_weapons\anims\rhs_hand_m249_grippod.rtm"
 		};
 	};
-class RHS_M249_Snackbar_Weathered: rhs_weap_m249_pip_S
+class RHS_M249_Praetorian_Weathered: rhs_weap_m249_pip_S
 	{
 		author = "Corey";
-		displayName = "M249 Snackbar Weathered Edition";
+		displayName = "M249 Praetorian Weathered Edition";
 		picture = "\rhsusf\addons\rhsusf_inventoryicons\data\weapons\rhs_weap_m249_ca.paa";
 		hiddenSelectionsTextures[]=
 		{
@@ -109,12 +109,12 @@ class RHS_M249_Snackbar_Weathered: rhs_weap_m249_pip_S
 			"pso_weapons\data\m249_camo\ammobox_merged_weathered_co.paa",
 			"pso_weapons\data\m249_camo\Stock_weathered_co.paa"
 		};
-		baseWeapon="RHS_M249_Snackbar_Weathered"
-		rhs_grip1_change="RHS_M249_Snackbar_Weathered_vfg1";
-		rhs_grip2_change="RHS_M249_Snackbar_Weathered_vfg2";
-		rhs_grip3_change="RHS_M249_Snackbar_Weathered_vfg3";
+		baseWeapon="RHS_M249_Praetorian_Weathered"
+		rhs_grip1_change="RHS_M249_Praetorian_Weathered_vfg1";
+		rhs_grip2_change="RHS_M249_Praetorian_Weathered_vfg2";
+		rhs_grip3_change="RHS_M249_Praetorian_Weathered_vfg3";
 	};
-	class RHS_M249_Snackbar_Weathered_vfg1: RHS_M249_Snackbar_Weathered
+	class RHS_M249_Praetorian_Weathered_vfg1: RHS_M249_Praetorian_Weathered
 	{
 		author="Corey";
 		handanim[]=
@@ -123,7 +123,7 @@ class RHS_M249_Snackbar_Weathered: rhs_weap_m249_pip_S
 			"\rhsusf\addons\rhsusf_c_weapons\anims\rhs_hand_m249_grippod.rtm"
 		};
 	};
-	class RHS_M249_Snackbar_Weathered_vfg2: RHS_M249_Snackbar_Weathered
+	class RHS_M249_Praetorian_Weathered_vfg2: RHS_M249_Praetorian_Weathered
 	{
 		author="Corey";
 		handanim[]=
@@ -132,7 +132,7 @@ class RHS_M249_Snackbar_Weathered: rhs_weap_m249_pip_S
 			"\rhsusf\addons\rhsusf_c_weapons\anims\rhs_hand_m249_VFG.rtm"
 		};
 	};
-	class RHS_M249_Snackbar_Weathered_vfg3: RHS_M249_Snackbar_Weathered
+	class RHS_M249_Praetorian_Weathered_vfg3: RHS_M249_Praetorian_Weathered
 	{
 		author="Corey";
 		handanim[]=

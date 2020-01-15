@@ -135,34 +135,6 @@ class CfgVehicles {
 
 	};
 	
-
-	class C_man_p_beggar_F;
-
-	class PSO_Snack : C_man_p_beggar_F {
-
-
-		_generalMacro = "B_Soldier_F"; //unsure what this does
-
-		displayName = "PSO Snackbar";
-
-		nakedUniform = "U_BasicBody"; //class for "naked" body
-
-		uniformClass = "PSO_Snack"; //e.g. "Example_Soldier_F"
-
-		hiddenSelections[] = {"Camo"};
-
-		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_snackface.paa"};
-
-		author= "Corey";
-
-		scope = 2;
-		scopeCurator = 2;
-		scopeArsenal = 2;
-
-		icon = "iconMan";
-
-	};
-	
 	
 	class C_man_p_beggar_F_afro;
 
@@ -347,40 +319,6 @@ class cfgWeapons {
 	};
 	
 	
-	class PSO_Snack : Uniform_Base {
-
-		author= "Corey";
-
-		scope = 2;
-		scopeCurator = 2;
-		scopeArsenal = 2;
-
-		displayName = "PSO Snackbar";
-
-		picture = "\CR_ShirtTextures\Data\pso_snackface";
-
-		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
-		
-		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_snackface.paa"};
-
-
-
-		class ItemInfo : UniformItem {
-
-			uniformModel = "-";
-
-			uniformClass = "PSO_Snack"; //would be same as our made soldier class
-
-			containerClass = "Supply40"; //how much it can carry
-
-			mass = 40; //how much it weights
-
-
-		};
-
-	};
-
-
 	class PSO_Trainer : Uniform_Base {
 
 		author= "Corey";
