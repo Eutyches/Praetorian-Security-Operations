@@ -79,12 +79,6 @@ class CfgUnitInsignia
 		displayName = "PSO Unit Patch";
 		texture = "\pso_milsimtools\paa\unitpatch_pso_patch.paa";
 	};
-	class PSO_UnitPatch_Snack
-	{
-		author = "Corey";
-		displayName = "PSO Snackbar";
-		texture = "\pso_milsimtools\paa\unitpatch_pso_snack.paa";
-	};
 	class PSO_UnitPatch_Text1
 	{
 		author = "Corey";
@@ -132,24 +126,6 @@ class CfgUnitInsignia
 		author = "Corey";
 		displayName = "PSO Text White on Black";
 		texture = "\pso_milsimtools\paa\unitpatch_pso_text4.paa";
-	};
-	class PSO_UnitPatch_War
-	{
-		author = "Corey";
-		displayName = "PSO War is Hell";
-		texture = "\pso_milsimtools\paa\unitpatch_pso_war.paa";
-	};
-	class PSO_UnitPatch_War2
-	{
-		author = "Corey";
-		displayName = "PSO War is Hell Black on White";
-		texture = "\pso_milsimtools\paa\unitpatch_pso_war2.paa";
-	};
-	class PSO_UnitPatch_War3
-	{
-		author = "Corey";
-		displayName = "PSO War is Hell White on Black";
-		texture = "\pso_milsimtools\paa\unitpatch_pso_war3.paa";
 	};
 	class PSO_TexturedPatch_OD
 	{
@@ -349,16 +325,6 @@ class cfgMarkers {
 	{
 	name = "PSO_Insignia";
 	icon = "\pso_milsimtools\paa\marker_psoinsignia.paa";
-	color[] = {1, 1, 1, 1};
-	size = 64;
-	shadow = 1;
-	scope = 2;
-	};
-
-	class PSO_Snack
-	{
-	name = "PSO_Snack";
-	icon = "\pso_milsimtools\paa\marker_snackface.paa";
 	color[] = {1, 1, 1, 1};
 	size = 64;
 	shadow = 1;
